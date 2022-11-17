@@ -1,220 +1,25 @@
-*****  :xxx  *******
+*****  :1A  *******
 
-|      :date |  :amount | :from |
-|------------+----------+-------|
-| 05/06/2019 |   150.00 |       |
-| 05/06/2019 |   105.00 |       |
-| 06/06/2019 |   126.00 |       |
-| 07/06/2019 |   150.00 |       |
-| 17/06/2019 |   777.00 |       |
-| 17/06/2019 |   210.00 |       |
-| 21/06/2019 |   126.00 |       |
-| 24/06/2019 |   105.00 |       |
-| 29/06/2019 |   115.50 |       |
-| 03/07/2019 |   252.00 |       |
-| 06/07/2019 |   126.00 |       |
-| 06/07/2019 |   105.00 |       |
-| 06/07/2019 |   315.00 |       |
-| 09/07/2019 |   150.00 |       |
-| 09/07/2019 |   330.00 |       |
-| 10/07/2019 |   150.00 |       |
-| 17/07/2019 |   150.00 |       |
-| 31/07/2019 |   150.00 |       |
-| 31/07/2019 |   300.00 |       |
-| 05/08/2019 |   105.00 |       |
-| 08/08/2019 |   126.00 |       |
-| 08/08/2019 |   150.00 |     1 |
-| 16/08/2019 |   150.00 |       |
-| 27/08/2019 |   105.00 |       |
-| 29/08/2019 |   210.00 |       |
-| 30/08/2019 |   660.00 |       |
-| 04/09/2019 |   105.00 |       |
-| 04/09/2019 |   126.00 |       |
-| 07/09/2019 |   150.00 |       |
-| 13/09/2019 |   136.00 |       |
-| 17/09/2019 | 6,023.94 |       |
-| 28/09/2019 | 2,955.00 |       |
-| 30/09/2019 |   150.00 |       |
-| 02/10/2019 |   660.00 |       |
-| 02/10/2019 |   105.00 |       |
-| 02/10/2019 |   136.00 |       |
-| 03/10/2019 |   150.00 |       |
-| 04/10/2019 |   315.00 |       |
-| 05/10/2019 |   105.00 |       |
-| 09/10/2019 |   126.00 |       |
-| 14/10/2019 |   105.00 |       |
-| 15/10/2019 |   200.00 |       |
-| 15/10/2019 |   600.00 |       |
-| 24/10/2019 |   660.00 |       |
-| 29/10/2019 |   210.00 |       |
-| 30/10/2019 |   105.00 |       |
-| 01/11/2019 |   300.00 |       |
-| 07/11/2019 |   105.00 |     1 |
-| 07/11/2019 |   126.00 |     1 |
-| 08/11/2019 |   160.00 |       |
-| 14/11/2019 |   150.00 |       |
-| 15/11/2019 |   150.00 |       |
-| 18/11/2019 |   150.00 |       |
-| 19/11/2019 |    70.00 |       |
-| 25/11/2019 |   200.00 |       |
-| 30/11/2019 |   105.00 |       |
-| 03/12/2019 |   150.00 |       |
-| 04/12/2019 |   300.00 |       |
-| 05/12/2019 |   126.00 |       |
-| 05/12/2019 |   300.00 |       |
-| 07/12/2019 |    15.00 |       |
-| 11/12/2019 |   105.00 |       |
-| 17/12/2019 |   150.00 |       |
-| 17/12/2019 |   170.00 |       |
-| 17/12/2019 |   210.00 |       |
-| 27/12/2019 |   105.00 |       |
-| 27/12/2019 |   105.00 |       |
-| 03/01/2020 |   150.00 |       |
-| 03/01/2020 |   150.00 |       |
-| 03/01/2020 |   315.00 |       |
-| 03/01/2020 |   260.00 |       |
-| 07/01/2020 |   105.00 |       |
-| 07/01/2020 |   300.00 |       |
-| 18/01/2020 |   200.00 |       |
-| 01/02/2020 |   300.00 |       |
-| 04/02/2020 |   150.00 |       |
-| 05/02/2020 |   150.00 |       |
-| 06/02/2020 |   126.00 |       |
-| 11/02/2020 |   105.00 |       |
-| 20/02/2020 | 1,512.00 |       |
-| 21/02/2020 |   900.00 |       |
-| 27/02/2020 |    80.00 |     1 |
-| 02/03/2020 |   150.00 |       |
-| 02/03/2020 |   260.00 |       |
-| 02/03/2020 |   435.20 |       |
-| 04/03/2020 |   150.00 |       |
-| 04/03/2020 |   105.00 |       |
-| 04/03/2020 |   105.00 |       |
-| 05/03/2020 |   300.00 |       |
-| 05/03/2020 |   126.00 |       |
-| 05/03/2020 |   150.00 |       |
-| 02/04/2020 |   210.00 |       |
-| 29/04/2020 |   260.00 |       |
-| 26/05/2020 |   300.00 |     1 |
-| 24/06/2020 |   210.00 |       |
-| 30/07/2020 |   300.00 |       |
-| 10/08/2020 |   210.00 |       |
-| 18/09/2020 |   300.00 |       |
-| 09/10/2020 |   210.00 |       |
-| 15/12/2020 |   210.00 |       |
-| 15/01/2021 |   450.00 |       |
-| 28/01/2021 |   130.00 |       |
-| 03/02/2021 |   210.00 |       |
-| 09/02/2021 |   105.00 |       |
-| 09/02/2021 |   105.00 |       |
-| 09/02/2021 |   105.00 |       |
-| 09/02/2021 |   105.00 |       |
-| 19/02/2021 |   130.00 |       |
-| 19/03/2021 |   136.00 |       |
-| 03/05/2021 |   136.00 |       |
-| 07/05/2021 | 1,512.00 |       |
-| 07/05/2021 | 1,512.00 |       |
-| 10/05/2021 | 1,800.00 |       |
-| 18/05/2021 |    80.00 |       |
-| 02/06/2021 |   136.00 |       |
-| 05/07/2021 |   105.00 |       |
-| 05/07/2021 |   105.00 |       |
-| 05/07/2021 |   105.00 |       |
-| 12/07/2021 |   315.00 |       |
-| 30/07/2021 |   315.00 |       |
-| 03/08/2021 |   140.00 |       |
-| 01/09/2021 |   150.00 |       |
-| 08/09/2021 | 5,000.00 |       |
-| 08/09/2021 |   150.00 |       |
-| 17/09/2021 |   315.00 |       |
-| 29/09/2021 |   150.00 |       |
-| 12/10/2021 |   136.00 |       |
-| 09/11/2021 |   150.00 |     1 |
-| 01/12/2021 |   136.00 |       |
-| 02/12/2021 |   150.00 |       |
-| 06/12/2021 |   315.00 |       |
-| 13/12/2021 | 6,930.00 |       |
-| 29/12/2021 |   136.00 |       |
-| 04/01/2022 |   150.00 |       |
-| 27/01/2022 |   150.00 |       |
-| 31/01/2022 | 1,800.00 |     1 |
-| 31/01/2022 | 1,512.00 |     1 |
-| 31/01/2022 |   136.00 |       |
-| 01/02/2022 | 1,512.00 |       |
-| 21/02/2022 |   137.00 |       |
-| 04/03/2022 |   150.00 |       |
-| 10/03/2022 |   315.00 |       |
-| 04/04/2022 |   150.00 |       |
-| 21/04/2022 |   210.00 |       |
-| 03/05/2022 |   200.00 |       |
-| 04/05/2022 |   150.00 |       |
-| 10/05/2022 |   200.00 |       |
-| 01/06/2022 |   150.00 |       |
-| 04/06/2022 |   105.00 |       |
-| 06/06/2022 |   315.00 |       |
-| 06/06/2022 |   315.00 |       |
-| 30/06/2022 |   105.00 |       |
-| 30/06/2022 |   105.00 |       |
-| 30/06/2022 |   105.00 |       |
-| 01/07/2022 |   200.00 |       |
-| 04/07/2022 |   140.00 |       |
-| 07/07/2022 |   105.00 |       |
-| 04/08/2022 |   150.00 |       |
-| 15/08/2022 |   315.00 |       |
-| 16/08/2022 |   140.00 |       |
-| 08/09/2022 |   105.00 |       |
-| 30/09/2022 |   200.00 |       |
-| 08/10/2022 |   105.00 |       |
-| 08/11/2022 |   105.00 |       |
-| 12/11/2022 |   100.00 |       |
-*****  :L6  *******
-
-|      :date | :amount |                                    :from |
-|------------+---------+------------------------------------------|
-| 01/08/2019 |  126.00 | ROSANA HOW CHAN pago mantenimiento julio |
-| 02/09/2019 |  252.00 | ROSANA HOW CHAN pago de mantenimiento ag |
-| 31/10/2019 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA GLOBAL BA |
-| 11/12/2019 |  252.00 | ROSANA HOW CHAN pago mantenimiento novie |
-| 04/02/2020 |  126.00 | ROSANA HOW CHAN Mantenimiento enero 2020 |
-| 02/03/2020 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA TRANSFERE |
-| 30/03/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento marzo |
-| 05/05/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento abril |
-| 01/06/2020 |  126.00 |  ROSANA HOW CHAN pago mantenimiento mayo |
-| 02/07/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento junio |
-| 02/09/2020 |  126.00 | ROSANA HOW CHAN pago de mantenimiento ag |
-| 01/10/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |
-| 06/11/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Octub |
-| 01/12/2020 |  126.00 |  ROSANA HOW CHAN Mantenimiento Noviembre |
-| 04/01/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento dicie |
-| 01/02/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento enero |
-| 01/03/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |
-| 30/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |
-| 01/06/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |
-| 01/07/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Junio |
-| 02/08/2021 |  126.00 |      ROSANA HOW CHAN Pago mantenimiento\ |
-| 31/08/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |
-| 30/09/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |
-| 01/11/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento octub |
-| 01/12/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |
-| 03/01/2022 |  126.00 |  ROSANA HOW CHAN Mantenimiento diciembre |
-| 01/04/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento marzo 2022 |
-| 01/04/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |
-| 03/05/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |
-| 30/05/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Mayo 2022\ |
-| 30/06/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento junio 2022 |
-| 01/08/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Julio 2022 |
-| 31/08/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |
-| 30/09/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento septiembre |
-*****  :L4  *******
-
-|      :date |  :amount |                             :from |
-|------------+----------+-----------------------------------|
-| 19/01/2021 |   126.00 | CAROLINA MARIA C Mant Mes octubre |
-| 19/01/2021 |   126.00 |     CAROLINA MARIA C Pago local 3 |
-| 09/03/2021 |   126.00 |                  CAROLINA MARIA C |
-| 10/08/2022 | 2,268.00 |              MIRIAM JOSEFINA pago |
-*****  :L8  *******
-*****  :3A  *******
+|      :date |  :amount |                                    :from |
+|------------+----------+------------------------------------------|
+| 13/04/2021 |   450.00 | ZULEIKA MIREYA G mantenimiento EL CARRIL |
+| 20/01/2022 |   300.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
+| 25/02/2022 |   150.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
+| 23/03/2022 |   150.00 | GRIMALDO IBRAHIM Mantenimiento 1A El Car |
+| 04/05/2022 |   150.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
+| 06/06/2022 |   150.00 | GRIMALDO IBRAHIM Mantenimiento PH Carril |
+| 01/07/2022 |   150.00 | GABRIEL GERARDO Mantenimiento 1A Junio 2 |
+| 08/07/2022 |   100.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
+| 22/07/2022 | 3,000.00 | GRIMALDO IBRAHIM 1A El Carrillon Z Garci |
+| 27/07/2022 |   150.00 |    GRIMALDO IBRAHIM cuota 1A julio 2022\ |
+| 08/08/2022 |   150.00 | GABRIEL GERARDO TRANSFERENCIA A TERCEROS |
+| 19/09/2022 |    80.00 | GRIMALDO IBRAHIM completo pago apto 1A C |
+| 19/10/2022 |   150.00 |  GRIMALDO IBRAHIM gastos comunes apto 1A |
+*****  :1B  *******
+*****  :1C  *******
+*****  :1D  *******
+*****  :2A  *******
+*****  :2B  *******
 *****  :2C  *******
 
 |      :date | :amount |                                    :from |
@@ -225,18 +30,6 @@
 | 19/09/2022 |  315.00 | FLOR CHAVEZ GUTI Cuotas Mant  Apto 2C de |
 | 17/10/2022 |  105.00 |  FLOR CHAVEZ GUTI Cuota de mantenimiento |
 | 28/10/2022 |  105.00 |  FLOR CHAVEZ GUTI Cuota de mantenimiento |
-*****  :4A  *******
-
-|      :date |  :amount |                                    :from |
-|------------+----------+------------------------------------------|
-| 18/01/2022 | 1,350.00 | IVETTE CRISTINA Cuotas de mantenimiento\ |
-| 21/09/2022 |   150.00 | ROSA ALCEDO QUIR ACH-092022158319267 TRA |
-| 05/10/2022 |   300.00 | IVETTE CRISTINA BANCA EN LINEA GLOBAL BA |
-*****  :3D  *******
-
-|      :date | :amount |                             :from |
-|------------+---------+-----------------------------------|
-| 17/01/2022 |   70.00 | JESSICA LIRIETH estelina mendoza\ |
 *****  :2D  *******
 
 |      :date | :amount |                                    :from |
@@ -255,6 +48,7 @@
 | 15/06/2021 |  105.00 |        LUIS EDUARDO ANG Pago junio 2021\ |
 | 09/07/2021 |  105.00 |        LUIS EDUARDO ANG Pago julio 2021\ |
 | 10/08/2021 |  105.00 |       LUIS EDUARDO ANG Pago agosto 2021\ |
+| 06/09/2021 |  105.00 |         LUIS EDUARDO ANG Pago sept 2021\ |
 | 14/10/2021 |  105.00 | LUIS EDUARDO ANG BANCA EN LINEA TRANSFER |
 | 12/11/2021 |  105.00 |          LUIS EDUARDO ANG Pago nov 2021\ |
 | 09/12/2021 |  105.00 |          LUIS EDUARDO ANG Pago dic 2021\ |
@@ -269,25 +63,88 @@
 | 08/09/2022 |  105.00 |         LUIS EDUARDO ANG Pago sept 2022\ |
 | 10/10/2022 |  105.00 |          LUIS EDUARDO ANG Pago oct 2022\ |
 | 09/11/2022 |  105.00 |          LUIS EDUARDO ANG Pago nov 2022\ |
-*****  :1C  *******
-*****  :6A  *******
+*****  :3A  *******
+
+|      :date | :amount |                 :from |
+|------------+---------+-----------------------|
+| 22/07/2022 |  175.00 |      mantenimiento 3A |
+| 09/09/2022 |  150.00 | mant cariilon 3A sept |
+| 10/10/2022 |  150.00 |       mant 3A octubre |
+*****  :3B  *******
+*****  :3C  *******
 
 |      :date | :amount |                                    :from |
 |------------+---------+------------------------------------------|
-| 15/10/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento del Apart |
-| 12/11/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento Mes Nov 2 |
-| 20/12/2021 |  315.00 | EIDA REBECA ARIA Dic 2021 Carrillon Apto |
-| 18/01/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B |
-| 18/02/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me |
-| 24/03/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me |
-| 29/04/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B |
-| 25/05/2022 |  315.00 | EIDA REBECA ARIA Mantenimiento Mayo 2022 |
-| 29/06/2022 |  315.00 |  EIDA REBECA ARIA Mantenimiento Apt 6A y |
-| 27/07/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK |
-| 23/08/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK |
-| 28/09/2022 |  315.00 | EIDA REBECA ARIA Septiembre 2022 Manteni |
-| 31/10/2022 |  315.00 | EIDA REBECA ARIA PH Carrillon Apto 6A Oc |
-*****  :L1  *******
+| 24/06/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento de Junio |
+| 11/07/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento*11*10020 |
+| 07/08/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento agosto*1 |
+| 23/09/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento*11*10020 |
+| 24/10/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento 10 2019* |
+| 25/11/2019 |  105.00 | DIDIA BARRANCO mantenimiento 3C*11*10020 |
+| 23/12/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento*11*10020 |
+| 10/01/2020 |  105.00 |                      Apt 3C mantenimieto |
+| 26/03/2020 |  105.00 |                         3C mantenimiento |
+| 21/04/2020 |  105.00 |                         3C mantenimiento |
+| 27/05/2020 |  105.00 |                         3C mantenimiento |
+| 24/06/2020 |  105.00 |                         3C mantenimiento |
+| 13/07/2020 |  105.00 |                         3C mantenimiento |
+| 11/08/2020 |  105.00 |                         3C mantenimiento |
+| 08/09/2020 |  105.00 |                         3C mantenimiento |
+| 13/10/2020 |  105.00 |                         3C mantenimiento |
+| 20/11/2020 |  105.00 |                         3C mantenimiento |
+| 07/12/2020 |  105.00 |                         3C mantenimiento |
+| 20/01/2021 |  105.00 |                         3C mantenimiento |
+| 13/02/2021 |  105.00 |                         3C mantenimiento |
+| 25/03/2021 |  105.00 |                         mantenimiento 3C |
+| 12/04/2021 |  105.00 |                         3C mantenimiento |
+| 20/05/2021 |  105.00 |                         mantenimiento 3C |
+| 28/06/2021 |  105.00 |                         mantenimiento 3C |
+| 26/07/2021 |  105.00 |                         mantenimiento 3C |
+| 23/08/2021 |  105.00 |                         mantenimiento 3C |
+| 23/09/2021 |  105.00 |                         3C mantenimiento |
+| 26/10/2021 |  105.00 |                         3C mantenimiento |
+| 26/11/2021 |  105.00 |                         3C mantenimiento |
+| 17/12/2021 |  105.00 |                         mantenimiento 3C |
+| 25/01/2022 |  105.00 |                         3C mantenimiento |
+| 07/02/2022 |  105.00 |                         3C mantenimiento |
+| 23/03/2022 |  105.00 |                         mantenimiento 3C |
+| 25/04/2022 |  105.00 |                         mantenimiento 3C |
+| 20/05/2022 |  105.00 |                         mantenimiento 3C |
+| 25/06/2022 |  105.00 |                         mantenimiento 3C |
+| 20/08/2022 |  105.00 |                         Mantenimiento 3C |
+| 23/09/2022 |  105.00 |                         mantenimiento 3C |
+| 21/10/2022 |  105.00 |                         mantenimiento 3C |
+*****  :3D  *******
+
+|      :date | :amount |                             :from |
+|------------+---------+-----------------------------------|
+| 17/01/2022 |   70.00 | JESSICA LIRIETH estelina mendoza\ |
+*****  :4A  *******
+
+|      :date |  :amount |                                    :from |
+|------------+----------+------------------------------------------|
+| 18/01/2022 | 1,350.00 | IVETTE CRISTINA Cuotas de mantenimiento\ |
+| 12/08/2022 |   600.00 | IVETTE CRISTINA BANCA EN LINEA TRANSFERE |
+| 21/09/2022 |   150.00 | ROSA ALCEDO QUIR ACH-092022158319267 TRA |
+| 05/10/2022 |   300.00 | IVETTE CRISTINA BANCA EN LINEA GLOBAL BA |
+*****  :4B  *******
+
+|      :date | :amount |                                    :from |
+|------------+---------+------------------------------------------|
+| 05/01/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |
+| 01/04/2022 |  330.00 | JOSE ALBERTO MOL TRANSFERENCIA A TERCERO |
+| 24/05/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |
+*****  :4C  *******
+
+|      :date | :amount |                                    :from |
+|------------+---------+------------------------------------------|
+| 22/04/2022 |  650.00 |         DANIELA VIRGINIA abono de deuda\ |
+| 09/05/2022 |  325.00 |                DANIELA VIRGINIA apto 4C\ |
+| 08/06/2022 |  325.00 |               DANIELA VIRGINIA apto 4 c\ |
+| 06/07/2022 |  325.00 | DANIELA VIRGINIA abono a morosidad y men |
+| 12/08/2022 |  325.00 |                 DANIELA VIRGINIA agosto\ |
+| 12/09/2022 |  350.00 | DANIELA VIRGINIA TRANSFERENCIA A TERCERO |
+*****  :4D  *******
 *****  :5A  *******
 *****  :5B  *******
 
@@ -297,6 +154,7 @@
 | 19/06/2019 |    0.01 |  ROBERTO PEREZ BO PH Carrillon Administ\ |
 | 03/09/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 26/09/2019 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |
+| 03/10/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 06/11/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 29/11/2019 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |
 | 03/12/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
@@ -308,7 +166,9 @@
 | 09/03/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |
 | 03/04/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 16/04/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA GLOBAL B |
+| 04/05/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 03/06/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
+| 11/06/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |
 | 03/07/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 06/07/2020 |  150.00 |                     ROBERTO PEREZ BO 5B\ |
 | 03/08/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
@@ -370,17 +230,43 @@
 | 03/10/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ |
 | 02/11/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |
 | 02/11/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ |
+*****  :5C  *******
+*****  :5D  *******
+
+|      :date | :amount |                                   :from |
+|------------+---------+-----------------------------------------|
+| 19/08/2019 |  462.00 | FUNDACION SARUD REFXTXTXXTRANSFERENCIAS |
+*****  :6A  *******
+
+|      :date | :amount |                                    :from |
+|------------+---------+------------------------------------------|
+| 15/10/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento del Apart |
+| 12/11/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento Mes Nov 2 |
+| 20/12/2021 |  315.00 | EIDA REBECA ARIA Dic 2021 Carrillon Apto |
+| 18/01/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B |
+| 18/02/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me |
+| 24/03/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me |
+| 29/04/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B |
+| 25/05/2022 |  315.00 | EIDA REBECA ARIA Mantenimiento Mayo 2022 |
+| 29/06/2022 |  315.00 |  EIDA REBECA ARIA Mantenimiento Apt 6A y |
+| 27/07/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK |
+| 23/08/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK |
+| 28/09/2022 |  315.00 | EIDA REBECA ARIA Septiembre 2022 Manteni |
+| 31/10/2022 |  315.00 | EIDA REBECA ARIA PH Carrillon Apto 6A Oc |
 *****  :6B  *******
 
 |      :date | :amount |                                    :from |
 |------------+---------+------------------------------------------|
 | 05/01/2021 |  150.00 | ALVARO SANTIDRIA Mantenimiento enero 202 |
 | 01/02/2021 |  150.00 |        ALVARO SANTIDRIA 6B Febrero 2021\ |
+| 03/03/2021 |  150.00 |          ALVARO SANTIDRIA 6B Marzo 2021\ |
 | 05/04/2021 |  150.00 |  ALVARO SANTIDRIA 6B mantenimiento abril |
+| 03/05/2021 |  150.00 | ALVARO SANTIDRIA mayo 2021 Apartamento 6 |
 | 02/06/2021 |  150.00 |  ALVARO SANTIDRIA junio 2021 apartamento |
 | 05/07/2021 |  150.00 |               ALVARO SANTIDRIA julio 6B\ |
 | 02/08/2021 |  150.00 |              ALVARO SANTIDRIA 6B agosto\ |
 | 01/09/2021 |  150.00 | ALVARO SANTIDRIA septiembre 2021 apto 6B |
+| 04/10/2021 |  150.00 | ALVARO SANTIDRIA 6b mantenimiento octubr |
 | 02/11/2021 |  150.00 |      ALVARO SANTIDRIA 6B noviembre 2021\ |
 | 01/12/2021 |  150.00 |      ALVARO SANTIDRIA 6B diciembre 2021\ |
 | 03/01/2022 |  150.00 |  ALVARO SANTIDRIA enero 2022 apartamento |
@@ -392,13 +278,6 @@
 | 04/07/2022 |  150.00 |  ALVARO SANTIDRIA 6b mantenimiento julio |
 | 25/07/2022 |  150.00 |         ALVARO SANTIDRIA 6B agosto 2022\ |
 | 15/09/2022 |  600.00 | SER HOLDINGS COR Desde BM apto 6B sept d |
-*****  :L3  *******
-
-|      :date | :amount |                                    :from |
-|------------+---------+------------------------------------------|
-| 07/01/2020 |  126.00 |    EXPERT TRAVEL SE PAGO MANT ENERO2020\ |
-| 06/08/2020 |  504.00 | EXPERT TRAVEL SE mant de abril a julio L |
-*****  :4D  *******
 *****  :6C  *******
 
 |      :date | :amount |                                    :from |
@@ -407,8 +286,7 @@
 | 18/05/2022 |  200.00 |                  MARIA DE JESUS C abril\ |
 | 09/08/2022 |  200.00 | MARIA DE JESUS C TRANSFERENCIA A TERCERO |
 | 06/10/2022 |  200.00 |               MARIA DE JESUS C abono 6c\ |
-*****  :L9  *******
-*****  :1D  *******
+| 08/11/2022 |  200.00 | MARIA DE JESUS C BANCA MOVIL GLOBAL BANK |
 *****  :6D  *******
 
 |      :date | :amount |                                    :from |
@@ -452,52 +330,58 @@
 | 23/08/2022 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D Agosto |
 | 29/09/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D septie |
 | 25/10/2022 |  105.00 | PHILIPPE JEAN LO PH Carrillon 6 D Octubr |
+*****  :L1  *******
 *****  :L2  *******
-*****  :5D  *******
-
-|      :date | :amount |                                   :from |
-|------------+---------+-----------------------------------------|
-| 19/08/2019 |  462.00 | FUNDACION SARUD REFXTXTXXTRANSFERENCIAS |
-*****  :2B  *******
-*****  :out  *******
-*****  :1B  *******
-*****  :3C  *******
-*****  :4C  *******
+*****  :L3  *******
 
 |      :date | :amount |                                    :from |
 |------------+---------+------------------------------------------|
-| 22/04/2022 |  650.00 |         DANIELA VIRGINIA abono de deuda\ |
-| 09/05/2022 |  325.00 |                DANIELA VIRGINIA apto 4C\ |
-| 06/07/2022 |  325.00 | DANIELA VIRGINIA abono a morosidad y men |
-| 12/08/2022 |  325.00 |                 DANIELA VIRGINIA agosto\ |
-*****  :5C  *******
-*****  :4B  *******
-
-|      :date | :amount |                                    :from |
-|------------+---------+------------------------------------------|
-| 05/01/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |
-| 01/04/2022 |  330.00 | JOSE ALBERTO MOL TRANSFERENCIA A TERCERO |
-| 24/05/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |
-*****  :3B  *******
-*****  :L7  *******
-*****  :2A  *******
-*****  :1A  *******
+| 01/08/2019 |  126.00 | ROSANA HOW CHAN pago mantenimiento julio |
+| 02/09/2019 |  252.00 | ROSANA HOW CHAN pago de mantenimiento ag |
+| 31/10/2019 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA GLOBAL BA |
+| 11/12/2019 |  252.00 | ROSANA HOW CHAN pago mantenimiento novie |
+| 04/02/2020 |  126.00 | ROSANA HOW CHAN Mantenimiento enero 2020 |
+| 02/03/2020 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA TRANSFERE |
+| 30/03/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento marzo |
+| 05/05/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento abril |
+| 01/06/2020 |  126.00 |  ROSANA HOW CHAN pago mantenimiento mayo |
+| 02/07/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento junio |
+| 06/08/2020 |  126.00 | ROSANA HOW CHAN pago Mantenimiento julio |
+| 02/09/2020 |  126.00 | ROSANA HOW CHAN pago de mantenimiento ag |
+| 01/10/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |
+| 06/11/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Octub |
+| 01/12/2020 |  126.00 |  ROSANA HOW CHAN Mantenimiento Noviembre |
+| 04/01/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento dicie |
+| 01/02/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento enero |
+| 01/03/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |
+| 01/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Marzo |
+| 30/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |
+| 01/06/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |
+| 01/07/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Junio |
+| 02/08/2021 |  126.00 |      ROSANA HOW CHAN Pago mantenimiento\ |
+| 31/08/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |
+| 30/09/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |
+| 01/11/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento octub |
+| 01/12/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |
+| 03/01/2022 |  126.00 |  ROSANA HOW CHAN Mantenimiento diciembre |
+| 01/02/2022 |  126.00 |  ROSANA HOW CHAN BANCA MOVIL GLOBAL BANK |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento marzo 2022 |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |
+| 03/05/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |
+| 30/05/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Mayo 2022\ |
+| 30/06/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento junio 2022 |
+| 01/08/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Julio 2022 |
+| 31/08/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |
+| 30/09/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento septiembre |
+*****  :L4  *******
 
 |      :date |  :amount |                                    :from |
 |------------+----------+------------------------------------------|
-| 13/04/2021 |   450.00 | ZULEIKA MIREYA G mantenimiento EL CARRIL |
-| 20/01/2022 |   300.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
-| 25/02/2022 |   150.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
-| 23/03/2022 |   150.00 | GRIMALDO IBRAHIM Mantenimiento 1A El Car |
-| 04/05/2022 |   150.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
-| 06/06/2022 |   150.00 | GRIMALDO IBRAHIM Mantenimiento PH Carril |
-| 01/07/2022 |   150.00 | GABRIEL GERARDO Mantenimiento 1A Junio 2 |
-| 08/07/2022 |   100.00 | GRIMALDO IBRAHIM TRANSFERENCIA A TERCERO |
-| 22/07/2022 | 3,000.00 | GRIMALDO IBRAHIM 1A El Carrillon Z Garci |
-| 27/07/2022 |   150.00 |    GRIMALDO IBRAHIM cuota 1A julio 2022\ |
-| 08/08/2022 |   150.00 | GABRIEL GERARDO TRANSFERENCIA A TERCEROS |
-| 19/09/2022 |    80.00 | GRIMALDO IBRAHIM completo pago apto 1A C |
-| 19/10/2022 |   150.00 |  GRIMALDO IBRAHIM gastos comunes apto 1A |
+| 19/01/2021 |   126.00 |        CAROLINA MARIA C Mant Mes octubre |
+| 19/01/2021 |   126.00 |            CAROLINA MARIA C Pago local 3 |
+| 09/03/2021 |   126.00 |                         CAROLINA MARIA C |
+| 25/04/2022 |   500.00 | CAROLINA MARIA C abono local luis cobarr |
+| 10/08/2022 | 2,268.00 |                     MIRIAM JOSEFINA pago |
 *****  :L5  *******
 
 |      :date | :amount |                                    :from |
@@ -509,6 +393,8 @@
 | 02/10/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 06/11/2019 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
 | 05/12/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
+| 07/01/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA TRANSFERE |
+| 07/02/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 06/03/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 08/04/2020 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
 | 08/05/2020 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
@@ -524,14 +410,198 @@
 | 03/03/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 31/03/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 05/05/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
+| 01/06/2021 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
 | 05/07/2021 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
 | 04/08/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 02/09/2021 |  126.00 | EFIGENIA COGLEY Mantenimiento de septiem |
 | 04/10/2021 |  126.00 | EFIGENIA COGLEY Pago de Mantenimiento lo |
 | 02/11/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 09/12/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
+| 04/01/2022 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |
 | 02/02/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 09/03/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 05/04/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
 | 04/05/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
+| 06/06/2022 |  126.00 | EFIGENIA COGLEY Pago de Junio de manteni |
 | 01/07/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |
+*****  :L6  *******
+
+|      :date | :amount |                                    :from |
+|------------+---------+------------------------------------------|
+| 07/01/2020 |  126.00 |    EXPERT TRAVEL SE PAGO MANT ENERO2020\ |
+| 06/08/2020 |  504.00 | EXPERT TRAVEL SE mant de abril a julio L |
+*****  :L7  *******
+*****  :L8  *******
+*****  :L9  *******
+*****  :xxx  *******
+
+|      :date |  :amount |           :from | :sucursal |
+|------------+----------+-----------------+-----------|
+| 05/06/2019 |   150.00 |                 |         1 |
+| 05/06/2019 |   105.00 |                 |         1 |
+| 06/06/2019 |   126.00 |                 |         1 |
+| 07/06/2019 |   150.00 |                 |         1 |
+| 17/06/2019 |   777.00 |                 |        52 |
+| 17/06/2019 |   210.00 |                 |        52 |
+| 21/06/2019 |   126.00 |                 |        52 |
+| 24/06/2019 |   105.00 |                 |        36 |
+| 29/06/2019 |   115.50 |                 |        17 |
+| 03/07/2019 |   252.00 |                 |        95 |
+| 06/07/2019 |   126.00 |                 |        52 |
+| 06/07/2019 |   105.00 |                 |        52 |
+| 06/07/2019 |   315.00 |                 |        52 |
+| 09/07/2019 |   150.00 |                 |        52 |
+| 09/07/2019 |   330.00 |                 |        52 |
+| 10/07/2019 |   150.00 |                 |        52 |
+| 17/07/2019 |   150.00 |                 |        52 |
+| 31/07/2019 |   150.00 |                 |        52 |
+| 31/07/2019 |   300.00 |                 |        52 |
+| 05/08/2019 |   105.00 |                 |        52 |
+| 08/08/2019 |   126.00 |                 |        52 |
+| 08/08/2019 |   150.00 |               1 |        52 |
+| 16/08/2019 |   150.00 |                 |        52 |
+| 27/08/2019 |   105.00 |                 |        36 |
+| 29/08/2019 |   210.00 |                 |        52 |
+| 30/08/2019 |   660.00 |                 |        52 |
+| 04/09/2019 |   105.00 |                 |        52 |
+| 04/09/2019 |   126.00 |                 |        52 |
+| 07/09/2019 |   150.00 |                 |        38 |
+| 13/09/2019 |   136.00 |                 |        95 |
+| 17/09/2019 | 6,023.94 |                 |        44 |
+| 28/09/2019 | 2,955.00 |                 |        52 |
+| 30/09/2019 |   150.00 |                 |        44 |
+| 02/10/2019 |   660.00 |                 |        44 |
+| 02/10/2019 |   105.00 |                 |        44 |
+| 02/10/2019 |   136.00 |                 |        95 |
+| 03/10/2019 |   150.00 |                 |        44 |
+| 04/10/2019 |   315.00 |                 |        30 |
+| 05/10/2019 |   105.00 |                 |        36 |
+| 09/10/2019 |   126.00 |                 |        52 |
+| 14/10/2019 |   105.00 |                 |        36 |
+| 15/10/2019 |   200.00 |                 |        52 |
+| 15/10/2019 |   600.00 |                 |        52 |
+| 24/10/2019 |   660.00 |                 |        52 |
+| 29/10/2019 |   210.00 |                 |        52 |
+| 30/10/2019 |   105.00 |                 |        36 |
+| 01/11/2019 |   300.00 |                 |        52 |
+| 07/11/2019 |   105.00 |               1 |        52 |
+| 07/11/2019 |   126.00 |               1 |        52 |
+| 08/11/2019 |   160.00 |                 |        52 |
+| 14/11/2019 |   150.00 |                 |        52 |
+| 15/11/2019 |   150.00 |                 |        52 |
+| 18/11/2019 |   150.00 |                 |        95 |
+| 19/11/2019 |    70.00 |                 |        52 |
+| 25/11/2019 |   200.00 |                 |        52 |
+| 30/11/2019 |   105.00 |                 |        52 |
+| 03/12/2019 |   150.00 |                 |        52 |
+| 04/12/2019 |   300.00 |                 |        52 |
+| 05/12/2019 |   126.00 |                 |        52 |
+| 05/12/2019 |   300.00 |                 |        52 |
+| 07/12/2019 |    15.00 |                 |        52 |
+| 11/12/2019 |   105.00 |                 |        52 |
+| 17/12/2019 |   150.00 |                 |        52 |
+| 17/12/2019 |   170.00 |                 |        52 |
+| 17/12/2019 |   210.00 |                 |        52 |
+| 27/12/2019 |   105.00 |                 |        36 |
+| 27/12/2019 |   105.00 |                 |        36 |
+| 03/01/2020 |   150.00 |                 |        52 |
+| 03/01/2020 |   150.00 |                 |        52 |
+| 03/01/2020 |   315.00 |                 |        52 |
+| 03/01/2020 |   260.00 |                 |        95 |
+| 07/01/2020 |   105.00 |                 |        52 |
+| 07/01/2020 |   300.00 |                 |        52 |
+| 18/01/2020 |   200.00 |                 |        52 |
+| 01/02/2020 |   300.00 |                 |        30 |
+| 04/02/2020 |   150.00 |                 |        52 |
+| 05/02/2020 |   150.00 |                 |        52 |
+| 06/02/2020 |   126.00 |                 |        52 |
+| 11/02/2020 |   105.00 |                 |        30 |
+| 20/02/2020 | 1,512.00 |                 |        21 |
+| 21/02/2020 |   900.00 |                 |        21 |
+| 27/02/2020 |    80.00 |               1 |        52 |
+| 02/03/2020 |   150.00 |                 |        52 |
+| 02/03/2020 |   260.00 |                 |        95 |
+| 02/03/2020 |   435.20 |                 |        21 |
+| 04/03/2020 |   150.00 |                 |        52 |
+| 04/03/2020 |   105.00 |                 |        52 |
+| 04/03/2020 |   105.00 |                 |        36 |
+| 05/03/2020 |   300.00 |                 |        52 |
+| 05/03/2020 |   126.00 |                 |        52 |
+| 05/03/2020 |   150.00 |                 |        52 |
+| 02/04/2020 |   210.00 |                 |        30 |
+| 29/04/2020 |   260.00 |                 |         9 |
+| 26/05/2020 |   300.00 |               1 |         1 |
+| 10/06/2020 |   186.18 |                 |        91 |
+| 24/06/2020 |   210.00 |                 |        30 |
+| 30/07/2020 |   300.00 |                 |        23 |
+| 10/08/2020 |   210.00 |                 |        30 |
+| 18/09/2020 |   300.00 |                 |        23 |
+| 09/10/2020 |   210.00 |                 |         1 |
+| 15/12/2020 |   210.00 |                 |        30 |
+| 15/01/2021 |   450.00 |                 |         5 |
+| 28/01/2021 |   130.00 |                 |         9 |
+| 03/02/2021 |   210.00 |                 |        30 |
+| 09/02/2021 |   105.00 |                 |         1 |
+| 09/02/2021 |   105.00 |                 |         1 |
+| 09/02/2021 |   105.00 |                 |         1 |
+| 09/02/2021 |   105.00 |                 |         1 |
+| 19/02/2021 |   130.00 |                 |         9 |
+| 19/03/2021 |   136.00 |                 |         9 |
+| 30/04/2021 |    33.00 |                 |         0 |
+| 03/05/2021 |   136.00 |                 |         9 |
+| 07/05/2021 | 1,512.00 |                 |        21 |
+| 07/05/2021 | 1,512.00 |                 |        21 |
+| 10/05/2021 | 1,800.00 |                 |        21 |
+| 18/05/2021 |    80.00 |                 |        30 |
+| 02/06/2021 |   136.00 |                 |         9 |
+| 05/07/2021 |   105.00 |                 |        17 |
+| 05/07/2021 |   105.00 |                 |        17 |
+| 05/07/2021 |   105.00 |                 |        17 |
+| 12/07/2021 |   315.00 |                 |         1 |
+| 30/07/2021 |   315.00 |                 |         1 |
+| 03/08/2021 |   140.00 |                 |         9 |
+| 01/09/2021 |   150.00 |                 |        30 |
+| 08/09/2021 | 5,000.00 |                 |         1 |
+| 08/09/2021 |   150.00 |                 |        30 |
+| 17/09/2021 |   315.00 |                 |        30 |
+| 29/09/2021 |   150.00 |                 |        39 |
+| 12/10/2021 |   136.00 |                 |         9 |
+| 09/11/2021 |   150.00 |               1 |        27 |
+| 01/12/2021 |   136.00 |                 |         9 |
+| 02/12/2021 |   150.00 |                 |        21 |
+| 06/12/2021 |   315.00 |                 |        30 |
+| 13/12/2021 | 6,930.00 |                 |         1 |
+| 29/12/2021 |   136.00 |                 |         9 |
+| 04/01/2022 |   150.00 |                 |        27 |
+| 27/01/2022 |   150.00 |                 |        30 |
+| 31/01/2022 | 1,800.00 |               1 |        23 |
+| 31/01/2022 | 1,512.00 |               1 |        23 |
+| 31/01/2022 |   136.00 |                 |         9 |
+| 01/02/2022 | 1,512.00 |                 |        23 |
+| 21/02/2022 |   137.00 |                 |         9 |
+| 04/03/2022 |   150.00 |                 |        31 |
+| 10/03/2022 |   315.00 |                 |        30 |
+| 04/04/2022 |   150.00 |                 |        43 |
+| 21/04/2022 |   210.00 |                 |        30 |
+| 03/05/2022 |   200.00 |                 |        30 |
+| 04/05/2022 |   150.00 |                 |        43 |
+| 10/05/2022 |   200.00 |                 |         9 |
+| 01/06/2022 |   150.00 |                 |        43 |
+| 04/06/2022 |   105.00 |                 |        30 |
+| 06/06/2022 |   315.00 |                 |        30 |
+| 06/06/2022 |   315.00 |                 |        30 |
+| 30/06/2022 |   105.00 |                 |         1 |
+| 30/06/2022 |   105.00 |                 |         1 |
+| 30/06/2022 |   105.00 |                 |         1 |
+| 01/07/2022 |   200.00 |                 |        30 |
+| 04/07/2022 |   140.00 |                 |         9 |
+| 07/07/2022 |   105.00 |                 |        30 |
+| 20/07/2022 |   105.00 | mantenimiento C |         1 |
+| 04/08/2022 |   150.00 |                 |        43 |
+| 15/08/2022 |   315.00 |                 |        36 |
+| 16/08/2022 |   140.00 |                 |         9 |
+| 08/09/2022 |   105.00 |                 |        30 |
+| 30/09/2022 |   200.00 |                 |         9 |
+| 08/10/2022 |   105.00 |                 |        30 |
+| 08/11/2022 |   105.00 |                 |        30 |
+| 12/11/2022 |   100.00 |                 |        25 |
