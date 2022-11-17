@@ -1,13 +1,15 @@
-(ns carrillon.apto)
+(ns carrillon.apto
+  (:require
+    [clojure.string :as str]))
 
 
 (def apartments
   (sorted-map :L1 [#"AMAN"] ;aman singh. 
    :L2 [#"AMAN"] ;	aman singh
    :L3 [#"CHAN"] ; ricardo how chan. rosana how chan.
-   :L4	[#"CAROLINA MARIA" #"MIRIAM JOSEFINA"] ;	luis corrarubia
+   :L4	[#"CAROLINA MARIA" #"MIRIAM JOSEFINA" #"EXPERT TRAVEL"] ;	luis corrarubia
    :L5	[#"EFIGENIA COGLEY"] ;	leureliz holding (lisbeth)
-   :L6	[#"CANO" #"EXPERT TRAVEL"] ;	isabel cano
+   :L6	[#"CANO" ] ;	isabel cano
    :L7	[#"XISPAVA"] ;	xispava sa administrador
    :L8	[#"XISPAVA"] ;	xispava sa administrador
    :L9	[#"XISPAVA"] ;	xispava sa administrador
@@ -64,3 +66,10 @@
   (find-apartment "christian")
   ;
   )
+
+(defn assoc-apartment
+  "associates :apt"
+  [{:keys [from] :as m}]
+  (let [apt (or (find-apartment from) :xxx)]
+    (assoc m :apt apt)))
+

@@ -2,7 +2,7 @@
   (:require
    [clojure.string :as str]
    [pdfboxing.text :as text] 
-   [carrillon.apto :refer [find-apartment]]))
+   [carrillon.apto :refer [assoc-apartment]]))
 
 ; call print-table "fully qualified" = with namespace
 #_(clojure.pprint/print-table [{:name "chris" :loves "read"}
@@ -21,15 +21,11 @@
    :from from
    :date date
    :sucursal sucursal
-   :amount amount
+   :amount (str/trim amount)
    :id id})
 
 
-(defn assoc-apartment 
-  "associates :apt"
-  [{:keys [from] :as m}]
-  (let [apt (or (find-apartment from) :xxx)]
-    (assoc m :apt apt)))
+
 
 (def line-format
   ;  type          from  date       id      suc   balance      amount
