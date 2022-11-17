@@ -62,7 +62,15 @@
     (assoc m :apt :L4)
     m))
 
-
+(defn hack-id [{:keys [id] :as m}]
+  (let [apt (case id
+            "217659184" :3C ; 2022 17 whatsapp lizca
+            "231624416" :1D ; payment banco general debt monitlla
+            nil
+            )]
+    (if apt
+      (assoc m :apt apt)
+      m)))
 
 (defn hacks [m]
   (->> m
@@ -71,6 +79,7 @@
        hack-sing2
        ;hack-flor ; only eida and flor ever paid 315, but eida has regular transfers
        hack-l4
+       hack-id
        ))
 
 
