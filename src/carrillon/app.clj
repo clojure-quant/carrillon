@@ -50,10 +50,10 @@
     (assoc m :apt :3B)
     m))
 
-(defn hack-flor [{:keys [apt amount] :as m}]
+(defn hack-aizaga [{:keys [apt amount] :as m}]
   (if (and (= apt :xxx)
            (= amount "315.00"))
-    (assoc m :apt :2C)
+    (assoc m :apt :1C)
     m))
 
 (defn hack-l4 [{:keys [apt amount] :as m}]
@@ -65,7 +65,16 @@
 (defn hack-id [{:keys [id] :as m}]
   (let [apt (case id
             "217659184" :3C ; 2022 17 whatsapp lizca
-            "231624416" :1D ; payment banco general debt monitlla
+            "231624416" :1D ; payment banco general debt 
+            "245461181" :1D ;| 04/06/2022
+            "263372009" :1D ;| 30/06/2022 |   105.00 |       |         1 |  |
+            "263372284" :1D ;| 30/06/2022 |   105.00 |       |         1 |  |
+            "263372579" :1D ;| 30/06/2022 |   105.00 |       |         1 |  |
+            "249747083" :1D ;| 07/07/2022 |   105.00 |       |        30 |  |
+            "257821529" :1D ;| 08/09/2022 |   105.00 |       |        30 |  |
+            "261855295" :1D ;| 08/10/2022 |   105.00 |       |        30 |  |
+            "265649501" :1D ;| 08/11/2022 |   105.00 |       |        30 |  |
+
             nil
             )]
     (if apt
@@ -77,7 +86,7 @@
        hack-6C
        hack-sing1
        hack-sing2
-       ;hack-flor ; only eida and flor ever paid 315, but eida has regular transfers
+       hack-aizaga ; some could be eida or flor 
        hack-l4
        hack-id
        ))
