@@ -2,7 +2,11 @@
   (:require
    [clojure.string :as str]
    [pdfboxing.text :as text] 
-   [carrillon.apto :refer [assoc-apartment]]))
+   [carrillon.apto :refer [assoc-apartment]])
+  (:import 
+    [java.util.regex Pattern]
+   )
+  )
 
 ; call print-table "fully qualified" = with namespace
 #_(clojure.pprint/print-table [{:name "chris" :loves "read"}
@@ -29,7 +33,9 @@
 
 (def line-format
   ;  type          from  date       id      suc   balance      amount
-  #"([\w\s\:\/\.]+)\s*\((.*)\)([\w\/]*)\s(\d*)\s(\d*)\s([\d,]*.\d\d)([\d,]*.\d\d)\s*")
+   #"(?m)^([\w \:\/\.\(\)]+) *\(([\s\w\.\\]*)\)([\d\/]*) (\d*) (\d*) ([\d,]*.\d\d)([\d,]*.\d\d) *$"
+   ;(Pattern/compile "^([\\w \:\\/\\.\\(\\)]+) *\(([\\s\\w\\.\\]*)\\)([\\d\\/]*) (\\d*) (\\d*) ([\\d,]*.\\d\\d)([\\d,]*.\\d\\d) *$" Pattern/MULTILINE) 
+  )
 
 (def text-demo-in
   (str
@@ -39,8 +45,11 @@
    "N/C: N/C ACH(LUIS EDUARDO ANG Pago nov 2022)09/11/2022 1329041835 0 24,296.33105.00" "\n"
    "DEPOSITO COMPLETO ()12/11/2022 284948830 25 24,396.33100.00 " "\n"
    "N/C: B.LINEA           N/C ACH BANCA EN LINEA(mantenimiento 3C)23/09/2022 222824955 1 20,885.33105.00" "\n"
-   ;"N/C: B.LINEA           N/C ACH BANCA EN LINEA(mant 3A Carrillon agosto)" "\n"
-  ))
+   "DEPOSITO COMPLETO ()25/02/2022 232496850 5 32,969.91330.00" "\n"
+   "N/C: B.LINEA           N/C ACH BANCA EN LINEA(Carrillon 3C 
+mantenimiento)" "\n"
+
+   ))
 
 (def text-demo-out
   (str
@@ -82,7 +91,7 @@
              (str/starts-with? type "N/D:") :o
              ; undefined
              :else (do 
-                     (println (format "undefined:[%s]" stype))
+                     (println (format "undefined type:[%s]" stype))
                      :u))]
     (assoc m :io io :type stype)))
 
@@ -124,7 +133,8 @@
 (defn extract-transactions [filename]
   (let [text-pdf (text/extract filename)
         transactions (text->transactions text-pdf)]
-    transactions))
+    {:text text-pdf
+     :transactions transactions}))
 
 
 (comment 
