@@ -13,8 +13,8 @@
 
 (defn str-apartment [transactions apt]
   (let [fields (if (= apt :xxx)
-                 [:date :amount :from :sucursal :id]
-                 [:date :amount :from :sucursal])]
+                 [:date :amount :from :id :sucursal ]
+                 [:date :amount :from :id :sucursal])]
     (with-out-str
       (->> transactions
          (filter (of-io :i))

@@ -1,32 +1,32 @@
 
-|      :date | :amount |                                    :from | :sucursal |
-|------------+---------+------------------------------------------+-----------|
-| 07/07/2020 |  420.00 | LUIS EDUARDO ANG Pago Abril Mayo Junio y |         0 |
-| 10/08/2020 |  105.00 | LUIS EDUARDO ANG Pago mantenimiento PH C |         0 |
-| 04/09/2020 |  105.00 | LUIS EDUARDO ANG Pago agosto 2020 PH Car |         0 |
-| 06/10/2020 |  105.00 | LUIS EDUARDO ANG Pago sep 2020 PH Carril |         0 |
-| 13/11/2020 |  105.00 | LUIS EDUARDO ANG Pago nov 2020 Carrillon |         0 |
-| 09/12/2020 |  105.00 |          LUIS EDUARDO ANG Pago Dic 2020\ |         0 |
-| 11/01/2021 |  105.00 |        LUIS EDUARDO ANG Pago enero 2021\ |         0 |
-| 09/02/2021 |  105.00 |          LUIS EDUARDO ANG Pago dic 2020\ |         0 |
-| 11/03/2021 |  105.00 |        LUIS EDUARDO ANG Pago marzo 2021\ |         0 |
-| 08/04/2021 |  105.00 |        LUIS EDUARDO ANG Pago abril 2021\ |         0 |
-| 04/05/2021 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2021\ |         0 |
-| 15/06/2021 |  105.00 |        LUIS EDUARDO ANG Pago junio 2021\ |         0 |
-| 09/07/2021 |  105.00 |        LUIS EDUARDO ANG Pago julio 2021\ |         0 |
-| 10/08/2021 |  105.00 |       LUIS EDUARDO ANG Pago agosto 2021\ |         0 |
-| 06/09/2021 |  105.00 |         LUIS EDUARDO ANG Pago sept 2021\ |         0 |
-| 14/10/2021 |  105.00 | LUIS EDUARDO ANG BANCA EN LINEA TRANSFER |         0 |
-| 12/11/2021 |  105.00 |          LUIS EDUARDO ANG Pago nov 2021\ |         0 |
-| 09/12/2021 |  105.00 |          LUIS EDUARDO ANG Pago dic 2021\ |         0 |
-| 13/01/2022 |  105.00 |        LUIS EDUARDO ANG Pago enero 2022\ |         0 |
-| 07/02/2022 |  105.00 |      LUIS EDUARDO ANG Pago febrero 2022\ |         0 |
-| 09/03/2022 |  105.00 |        LUIS EDUARDO ANG Pago marzo 2022\ |         0 |
-| 07/04/2022 |  105.00 |        LUIS EDUARDO ANG Pago abril 2022\ |         0 |
-| 06/05/2022 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2022\ |         0 |
-| 13/06/2022 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2022\ |         0 |
-| 08/07/2022 |  105.00 |        LUIS EDUARDO ANG Pago julio 2022\ |         0 |
-| 08/08/2022 |  105.00 |       LUIS EDUARDO ANG Pago agosto 2022\ |         0 |
-| 08/09/2022 |  105.00 |         LUIS EDUARDO ANG Pago sept 2022\ |         0 |
-| 10/10/2022 |  105.00 |          LUIS EDUARDO ANG Pago oct 2022\ |         0 |
-| 09/11/2022 |  105.00 |          LUIS EDUARDO ANG Pago nov 2022\ |         0 |
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 07/07/2020 |  420.00 | LUIS EDUARDO ANG Pago Abril Mayo Junio y |  556857096 |         0 |
+| 10/08/2020 |  105.00 | LUIS EDUARDO ANG Pago mantenimiento PH C |  598261149 |         0 |
+| 04/09/2020 |  105.00 | LUIS EDUARDO ANG Pago agosto 2020 PH Car |  631813724 |         0 |
+| 06/10/2020 |  105.00 | LUIS EDUARDO ANG Pago sep 2020 PH Carril |  672056908 |         0 |
+| 13/11/2020 |  105.00 | LUIS EDUARDO ANG Pago nov 2020 Carrillon |  713788145 |         0 |
+| 09/12/2020 |  105.00 |          LUIS EDUARDO ANG Pago Dic 2020\ |  735528281 |         0 |
+| 11/01/2021 |  105.00 |        LUIS EDUARDO ANG Pago enero 2021\ |  760275868 |         0 |
+| 09/02/2021 |  105.00 |          LUIS EDUARDO ANG Pago dic 2020\ |  785952073 |         0 |
+| 11/03/2021 |  105.00 |        LUIS EDUARDO ANG Pago marzo 2021\ |  812144625 |         0 |
+| 08/04/2021 |  105.00 |        LUIS EDUARDO ANG Pago abril 2021\ |  835543669 |         0 |
+| 04/05/2021 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2021\ |  857642403 |         0 |
+| 15/06/2021 |  105.00 |        LUIS EDUARDO ANG Pago junio 2021\ |  892651352 |         0 |
+| 09/07/2021 |  105.00 |        LUIS EDUARDO ANG Pago julio 2021\ |  914162514 |         0 |
+| 10/08/2021 |  105.00 |       LUIS EDUARDO ANG Pago agosto 2021\ |  940633023 |         0 |
+| 06/09/2021 |  105.00 |         LUIS EDUARDO ANG Pago sept 2021\ |  963937197 |         0 |
+| 14/10/2021 |  105.00 | LUIS EDUARDO ANG BANCA EN LINEA TRANSFER |  997161979 |         0 |
+| 12/11/2021 |  105.00 |          LUIS EDUARDO ANG Pago nov 2021\ | 1020653975 |         0 |
+| 09/12/2021 |  105.00 |          LUIS EDUARDO ANG Pago dic 2021\ | 1042950485 |         0 |
+| 13/01/2022 |  105.00 |        LUIS EDUARDO ANG Pago enero 2022\ | 1071064720 |         0 |
+| 07/02/2022 |  105.00 |      LUIS EDUARDO ANG Pago febrero 2022\ | 1092167173 |         0 |
+| 09/03/2022 |  105.00 |        LUIS EDUARDO ANG Pago marzo 2022\ | 1117539053 |         0 |
+| 07/04/2022 |  105.00 |        LUIS EDUARDO ANG Pago abril 2022\ | 1143508792 |         0 |
+| 06/05/2022 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2022\ | 1167946720 |         0 |
+| 13/06/2022 |  105.00 |         LUIS EDUARDO ANG Pago mayo 2022\ | 1200118728 |         0 |
+| 08/07/2022 |  105.00 |        LUIS EDUARDO ANG Pago julio 2022\ | 1223659684 |         0 |
+| 08/08/2022 |  105.00 |       LUIS EDUARDO ANG Pago agosto 2022\ | 1249157285 |         0 |
+| 08/09/2022 |  105.00 |         LUIS EDUARDO ANG Pago sept 2022\ | 1277272362 |         0 |
+| 10/10/2022 |  105.00 |          LUIS EDUARDO ANG Pago oct 2022\ | 1304150942 |         0 |
+| 09/11/2022 |  105.00 |          LUIS EDUARDO ANG Pago nov 2022\ | 1329041835 |         0 |

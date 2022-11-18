@@ -1,9 +1,9 @@
 
-|      :date | :amount |                                    :from | :sucursal |
-|------------+---------+------------------------------------------+-----------|
-| 22/04/2022 |  650.00 |         DANIELA VIRGINIA abono de deuda\ |         0 |
-| 09/05/2022 |  325.00 |                DANIELA VIRGINIA apto 4C\ |         0 |
-| 08/06/2022 |  325.00 |               DANIELA VIRGINIA apto 4 c\ |         0 |
-| 06/07/2022 |  325.00 | DANIELA VIRGINIA abono a morosidad y men |         0 |
-| 12/08/2022 |  325.00 |                 DANIELA VIRGINIA agosto\ |         0 |
-| 12/09/2022 |  350.00 | DANIELA VIRGINIA TRANSFERENCIA A TERCERO |         0 |
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 22/04/2022 |  650.00 |         DANIELA VIRGINIA abono de deuda\ | 1155805413 |         0 |
+| 09/05/2022 |  325.00 |                DANIELA VIRGINIA apto 4C\ | 1169079659 |         0 |
+| 08/06/2022 |  325.00 |               DANIELA VIRGINIA apto 4 c\ | 1195770427 |         0 |
+| 06/07/2022 |  325.00 | DANIELA VIRGINIA abono a morosidad y men | 1220964073 |         0 |
+| 12/08/2022 |  325.00 |                 DANIELA VIRGINIA agosto\ | 1252628855 |         0 |
+| 12/09/2022 |  350.00 | DANIELA VIRGINIA TRANSFERENCIA A TERCERO | 1279352059 |         0 |

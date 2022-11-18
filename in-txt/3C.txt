@@ -1,37 +1,37 @@
 
-|      :date | :amount |                                    :from | :sucursal |
-|------------+---------+------------------------------------------+-----------|
-| 24/06/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento de Junio |         0 |
-| 10/01/2020 |  105.00 |                      Apt 3C mantenimieto |         1 |
-| 26/03/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 21/04/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 27/05/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 24/06/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 13/07/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 11/08/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 08/09/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 13/10/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 20/11/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 07/12/2020 |  105.00 |                         3C mantenimiento |         1 |
-| 20/01/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 13/02/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 25/03/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 12/04/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 20/05/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 28/06/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 26/07/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 23/08/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 23/09/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 26/10/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 26/11/2021 |  105.00 |                         3C mantenimiento |         1 |
-| 17/12/2021 |  105.00 |                         mantenimiento 3C |         1 |
-| 25/01/2022 |  105.00 |                         3C mantenimiento |         1 |
-| 07/02/2022 |  105.00 |                         3C mantenimiento |         1 |
-| 23/03/2022 |  105.00 |                         mantenimiento 3C |         1 |
-| 25/04/2022 |  105.00 |                         mantenimiento 3C |         1 |
-| 20/05/2022 |  105.00 |                         mantenimiento 3C |         1 |
-| 25/06/2022 |  105.00 |                         mantenimiento 3C |         1 |
-| 20/07/2022 |  105.00 |                          mantenimiento C |         1 |
-| 20/08/2022 |  105.00 |                         Mantenimiento 3C |         1 |
-| 23/09/2022 |  105.00 |                         mantenimiento 3C |         1 |
-| 21/10/2022 |  105.00 |                         mantenimiento 3C |         1 |
+|      :date | :amount |                                    :from |       :id | :sucursal |
+|------------+---------+------------------------------------------+-----------+-----------|
+| 24/06/2019 |  105.00 | DIDIA BARRANCO 3C mantenimiento de Junio |  55328507 |         0 |
+| 10/01/2020 |  105.00 |                      Apt 3C mantenimieto | 165062972 |         1 |
+| 26/03/2020 |  105.00 |                         3C mantenimiento | 167542062 |         1 |
+| 21/04/2020 |  105.00 |                         3C mantenimiento | 167940988 |         1 |
+| 27/05/2020 |  105.00 |                         3C mantenimiento | 168700852 |         1 |
+| 24/06/2020 |  105.00 |                         3C mantenimiento | 169421064 |         1 |
+| 13/07/2020 |  105.00 |                         3C mantenimiento | 169849906 |         1 |
+| 11/08/2020 |  105.00 |                         3C mantenimiento | 170601795 |         1 |
+| 08/09/2020 |  105.00 |                         3C mantenimiento | 171364415 |         1 |
+| 13/10/2020 |  105.00 |                         3C mantenimiento | 172300022 |         1 |
+| 20/11/2020 |  105.00 |                         3C mantenimiento | 173389250 |         1 |
+| 07/12/2020 |  105.00 |                         3C mantenimiento | 174021987 |         1 |
+| 20/01/2021 |  105.00 |                         3C mantenimiento | 176026722 |         1 |
+| 13/02/2021 |  105.00 |                         3C mantenimiento | 177649304 |         1 |
+| 25/03/2021 |  105.00 |                         mantenimiento 3C | 180500608 |         1 |
+| 12/04/2021 |  105.00 |                         3C mantenimiento | 181687128 |         1 |
+| 20/05/2021 |  105.00 |                         mantenimiento 3C | 184637445 |         1 |
+| 28/06/2021 |  105.00 |                         mantenimiento 3C | 187441810 |         1 |
+| 26/07/2021 |  105.00 |                         mantenimiento 3C | 189545020 |         1 |
+| 23/08/2021 |  105.00 |                         mantenimiento 3C | 191652714 |         1 |
+| 23/09/2021 |  105.00 |                         3C mantenimiento | 194278189 |         1 |
+| 26/10/2021 |  105.00 |                         3C mantenimiento | 196846078 |         1 |
+| 26/11/2021 |  105.00 |                         3C mantenimiento | 199157547 |         1 |
+| 17/12/2021 |  105.00 |                         mantenimiento 3C | 200909129 |         1 |
+| 25/01/2022 |  105.00 |                         3C mantenimiento | 203808728 |         1 |
+| 07/02/2022 |  105.00 |                         3C mantenimiento | 204818969 |         1 |
+| 23/03/2022 |  105.00 |                         mantenimiento 3C | 208320574 |         1 |
+| 25/04/2022 |  105.00 |                         mantenimiento 3C | 210832407 |         1 |
+| 20/05/2022 |  105.00 |                         mantenimiento 3C | 212895957 |         1 |
+| 25/06/2022 |  105.00 |                         mantenimiento 3C | 215702571 |         1 |
+| 20/07/2022 |  105.00 |                          mantenimiento C | 217659184 |         1 |
+| 20/08/2022 |  105.00 |                         Mantenimiento 3C | 220092834 |         1 |
+| 23/09/2022 |  105.00 |                         mantenimiento 3C | 222824955 |         1 |
+| 21/10/2022 |  105.00 |                         mantenimiento 3C | 225124352 |         1 |

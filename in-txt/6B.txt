@@ -1,37 +1,37 @@
 
-|      :date |  :amount |                                    :from | :sucursal |
-|------------+----------+------------------------------------------+-----------|
-| 31/07/2019 |   300.00 |                                          |        52 |
-| 17/09/2019 | 6,023.94 |                                          |        44 |
-| 28/09/2019 | 2,955.00 |                                          |        52 |
-| 01/11/2019 |   300.00 |                                          |        52 |
-| 04/12/2019 |   300.00 |                                          |        52 |
-| 05/12/2019 |   300.00 |                                          |        52 |
-| 07/01/2020 |   300.00 |                                          |        52 |
-| 01/02/2020 |   300.00 |                                          |        30 |
-| 05/03/2020 |   300.00 |                                          |        52 |
-| 26/05/2020 |   300.00 |                                        1 |         1 |
-| 30/07/2020 |   300.00 |                                          |        23 |
-| 18/09/2020 |   300.00 |                                          |        23 |
-| 09/11/2020 |   300.00 |                                          |         1 |
-| 05/01/2021 |   150.00 | ALVARO SANTIDRIA Mantenimiento enero 202 |         0 |
-| 01/02/2021 |   150.00 |        ALVARO SANTIDRIA 6B Febrero 2021\ |         0 |
-| 03/03/2021 |   150.00 |          ALVARO SANTIDRIA 6B Marzo 2021\ |         0 |
-| 05/04/2021 |   150.00 |  ALVARO SANTIDRIA 6B mantenimiento abril |         0 |
-| 03/05/2021 |   150.00 | ALVARO SANTIDRIA mayo 2021 Apartamento 6 |         0 |
-| 02/06/2021 |   150.00 |  ALVARO SANTIDRIA junio 2021 apartamento |         0 |
-| 05/07/2021 |   150.00 |               ALVARO SANTIDRIA julio 6B\ |         0 |
-| 02/08/2021 |   150.00 |              ALVARO SANTIDRIA 6B agosto\ |         0 |
-| 01/09/2021 |   150.00 | ALVARO SANTIDRIA septiembre 2021 apto 6B |         0 |
-| 04/10/2021 |   150.00 | ALVARO SANTIDRIA 6b mantenimiento octubr |         0 |
-| 02/11/2021 |   150.00 |      ALVARO SANTIDRIA 6B noviembre 2021\ |         0 |
-| 01/12/2021 |   150.00 |      ALVARO SANTIDRIA 6B diciembre 2021\ |         0 |
-| 03/01/2022 |   150.00 |  ALVARO SANTIDRIA enero 2022 apartamento |         0 |
-| 01/02/2022 |   150.00 | ALVARO SANTIDRIA Mantenimiento 6B febrer |         0 |
-| 02/03/2022 |   150.00 |  ALVARO SANTIDRIA 6B mantenimiento marzo |         0 |
-| 05/04/2022 |   150.00 |          ALVARO SANTIDRIA 6B abril 2022\ |         0 |
-| 03/05/2022 |   150.00 |           ALVARO SANTIDRIA 6B mayo 2022\ |         0 |
-| 01/06/2022 |   150.00 |          ALVARO SANTIDRIA 6b Junio 2022\ |         0 |
-| 04/07/2022 |   150.00 |  ALVARO SANTIDRIA 6b mantenimiento julio |         0 |
-| 25/07/2022 |   150.00 |         ALVARO SANTIDRIA 6B agosto 2022\ |         0 |
-| 15/09/2022 |   600.00 | SER HOLDINGS COR Desde BM apto 6B sept d |         0 |
+|      :date |  :amount |                                    :from |        :id | :sucursal |
+|------------+----------+------------------------------------------+------------+-----------|
+| 31/07/2019 |   300.00 |                                          |   95650492 |        52 |
+| 17/09/2019 | 6,023.94 |                                          |  108217302 |        44 |
+| 28/09/2019 | 2,955.00 |                                          |  111058789 |        52 |
+| 01/11/2019 |   300.00 |                                          |  119890304 |        52 |
+| 04/12/2019 |   300.00 |                                          |  127744474 |        52 |
+| 05/12/2019 |   300.00 |                                          |  128109203 |        52 |
+| 07/01/2020 |   300.00 |                                          |  135567163 |        52 |
+| 01/02/2020 |   300.00 |                                          |  136683339 |        30 |
+| 05/03/2020 |   300.00 |                                          |  148961099 |        52 |
+| 26/05/2020 |   300.00 |                                        1 |  157486153 |         1 |
+| 30/07/2020 |   300.00 |                                          |  163601709 |        23 |
+| 18/09/2020 |   300.00 |                                          |  169184186 |        23 |
+| 09/11/2020 |   300.00 |                                          |  174698341 |         1 |
+| 05/01/2021 |   150.00 | ALVARO SANTIDRIA Mantenimiento enero 202 |  756807790 |         0 |
+| 01/02/2021 |   150.00 |        ALVARO SANTIDRIA 6B Febrero 2021\ |  779581392 |         0 |
+| 03/03/2021 |   150.00 |          ALVARO SANTIDRIA 6B Marzo 2021\ |  805054615 |         0 |
+| 05/04/2021 |   150.00 |  ALVARO SANTIDRIA 6B mantenimiento abril |  831814253 |         0 |
+| 03/05/2021 |   150.00 | ALVARO SANTIDRIA mayo 2021 Apartamento 6 |  856061977 |         0 |
+| 02/06/2021 |   150.00 |  ALVARO SANTIDRIA junio 2021 apartamento |  882113991 |         0 |
+| 05/07/2021 |   150.00 |               ALVARO SANTIDRIA julio 6B\ |  910202019 |         0 |
+| 02/08/2021 |   150.00 |              ALVARO SANTIDRIA 6B agosto\ |  934130211 |         0 |
+| 01/09/2021 |   150.00 | ALVARO SANTIDRIA septiembre 2021 apto 6B |  960652641 |         0 |
+| 04/10/2021 |   150.00 | ALVARO SANTIDRIA 6b mantenimiento octubr |  988441201 |         0 |
+| 02/11/2021 |   150.00 |      ALVARO SANTIDRIA 6B noviembre 2021\ | 1013974094 |         0 |
+| 01/12/2021 |   150.00 |      ALVARO SANTIDRIA 6B diciembre 2021\ | 1036440677 |         0 |
+| 03/01/2022 |   150.00 |  ALVARO SANTIDRIA enero 2022 apartamento | 1062654240 |         0 |
+| 01/02/2022 |   150.00 | ALVARO SANTIDRIA Mantenimiento 6B febrer | 1087146141 |         0 |
+| 02/03/2022 |   150.00 |  ALVARO SANTIDRIA 6B mantenimiento marzo | 1111421747 |         0 |
+| 05/04/2022 |   150.00 |          ALVARO SANTIDRIA 6B abril 2022\ | 1141534621 |         0 |
+| 03/05/2022 |   150.00 |           ALVARO SANTIDRIA 6B mayo 2022\ | 1164291798 |         0 |
+| 01/06/2022 |   150.00 |          ALVARO SANTIDRIA 6b Junio 2022\ | 1190425773 |         0 |
+| 04/07/2022 |   150.00 |  ALVARO SANTIDRIA 6b mantenimiento julio | 1218744173 |         0 |
+| 25/07/2022 |   150.00 |         ALVARO SANTIDRIA 6B agosto 2022\ | 1235929654 |         0 |
+| 15/09/2022 |   600.00 | SER HOLDINGS COR Desde BM apto 6B sept d | 1282853178 |         0 |
