@@ -1,46 +1,78 @@
 (ns carrillon.apto
   (:require
-    [clojure.string :as str]))
+   [clojure.string :as str]))
 
 
 (def apartments
-  (sorted-map 
-   :L1 [#"AMAN"] ;aman singh. 
-   :L2 [#"AMAN"] ;	aman singh
-   :L3 [#"CHAN"] ; ricardo how chan. rosana how chan.
-   :L4	[#"CAROLINA MARIA" #"MIRIAM JOSEFINA" #"EXPERT TRAVEL"] ;	luis corrarubia
-   :L5	[#"EFIGENIA COGLEY"] ;	leureliz holding (lisbeth)
-   :L6	[#"CANO" ] ;	isabel cano
-   :L7	[#"XISPAVA"] ;	xispava sa administrador
-   :L8	[#"XISPAVA"] ;	xispava sa administrador
-   :L9	[#"XISPAVA"] ;	xispava sa administrador
-   :1A	[#"GRIMALDO IBRAHIM" #"ZULEIKA MIREYA" #"GABRIEL GERARDO"] ;	zumarco sa. grimaldo. mama lureica.
-   :1B	[#"NIVIA"] ;	nivia vernaza  
-   :1C	[#"AIZAGA"] ;luis aizaga
-   :1D	[#"BGENERAL"] ;banco general (alexander montilla ortega)
-   :2A	[] ; Prof. Guillermo Alegría Zúñiga minlsterio educacion.
-   :2B	[#"EMCA"] ;immobiliaria emca (adonai abogado)
-   :2C	[#"FLOR CHAVEZ GUTI"] ;	flor chavez contadora.
-   :2D	[#"LUIS EDUARDO ANG"] ;	luis anguizola inmobilia came
-   :3A	[#"3A"] ;	odette poschl. sonja poschl. 
-   :3B	[#"AMAN"] ;	aman singh.
-   :3C	[#"DIDIA BARRANCO" #"3C"] ;	lisca linette luna barranco
-   :3D	[#"JESSICA LIRIETH"] ;	estellina mendoza
-   :4A	[#"IVETTE CRISTINA" #"ROSA ALCEDO"] ;	Rosemary Dickinson
-   :4B	[#"JOSE ALBERTO MOL"] ;	evelia gonzales. jose alberto
-   :4C	[#"DANIELA VIRGINIA"] ;	corp admin electronica erick y daniela
-   :4D	[#"FERNANDEZ"] ;	angel j fernandez bitchito fundacion
-   :5A	[#"RODRIGUEZ"] ;	jose luis rodriguez
-   :5B	[#"5B" #"ROBERTO PEREZ" #"MARGO MANUELLA"] ;	margho callaghan (2 apartments)
-   :5C	[#"5C" #"MARGO MANUELLA"] ;	margho callaghan
-   :5D	[#"FUNDACION SARUD"] ;	fundacion sarud
-   :6A	[#"EIDA REBECA ARIA"] ;	chino. sang ho li. eida
-   :6B	[#"SER" #"ALVARO SANTIDRIA"] ;	ser holdings corp
-   :6C	[#"MARIA DE JESUS"] ; maria jesus
-   :6D	[#"PHILIPPE JEAN LO"] ; philppe antoine gelis. 
+  (sorted-map
+   :L1 {:owner "aman singh"
+        :bank [#"AMAN"]}
+   :L2 {:owner "aman singh"
+        :bank [#"AMAN"]}
+   :L3 {:owner "ricardo how chan. rosana how chan"
+        :bank [#"CHAN"]}
+   :L4 {:owner "luis corrarubia"
+        :bank 	[#"CAROLINA MARIA" #"MIRIAM JOSEFINA" #"EXPERT TRAVEL"]}
+   :L5 {:owner "leureliz holding (lisbeth)"
+        :bank [#"EFIGENIA COGLEY"]}
+   :L6 {:owner "isabel cano"
+        :bank 	[#"CANO"]}
+   :L7	{:owner "xispava sa agenor"
+        :bank [#"XISPAVA"]}
+   :L8	{:owner "xispava sa agenor"
+        :bank [#"XISPAVA"]}
+   :L9	{:owner "xispava sa agenor"
+        :bank [#"XISPAVA"]}
+   :1A	{:owner "zumarco sa. grimaldo. mama lureica."
+        :bank [#"GRIMALDO IBRAHIM" #"ZULEIKA MIREYA" #"GABRIEL GERARDO"]}
+   :1B	{:owner "nivia vernaza"
+        :bank [#"NIVIA"]}
+   :1C	{:owner "luis aizaga"
+        :bank [#"AIZAGA"]}
+   :1D	{:owner "banco general (alexander montilla ortega)"
+        :bank [#"BGENERAL"]}
+   :2A	{:owner "Prof. Guillermo Alegría Zúñiga minlsterio educacion."
+        :bank []}
+   :2B	{:owner "immobiliaria emca (adonai abogado)"
+        :bank [#"EMCA"]}
+   :2C	{:owner "flor chavez contadora."
+        :bank [#"FLOR CHAVEZ GUTI"]}
+   :2D	{:owner "luis anguizola inmobilia came"
+        :bank [#"LUIS EDUARDO ANG"]}
+   :3A	{:owner "odette poschl. sonja poschl. "
+        :bank [#"3A"]}
+   :3B	{:owner "aman singh"
+        :bank [#"AMAN"]}
+   :3C	{:owner "lisca linette luna barranco"
+        :bank [#"DIDIA BARRANCO" #"3C"]}
+   :3D	{:owner "estellina mendoza"
+        :bank [#"JESSICA LIRIETH"]}
+   :4A	{:owner "Rosemary Dickinson"
+        :bank [#"IVETTE CRISTINA" #"ROSA ALCEDO"]}
+   :4B	{:owner "evelia gonzales. jose alberto"
+        :bank [#"JOSE ALBERTO MOL"]}
+   :4C	{:owner "corp admin electronica erick y daniela"
+        :bank [#"DANIELA VIRGINIA"]}
+   :4D	{:owner "angel j fernandez bitchito fundacion"
+        :bank [#"FERNANDEZ"]}
+   :5A	{:owner "jose luis rodriguez"
+        :bank [#"RODRIGUEZ"]}
+   :5B	{:owner "margho callaghan (ex roberto)"
+        :bank [#"5B" #"ROBERTO PEREZ" #"MARGO MANUELLA"]}
+   :5C	{:owner "margho callaghan"
+        :bank [#"5C" #"MARGO MANUELLA"]}
+   :5D	{:owner "fundacion sarud"
+        :bank [#"FUNDACION SARUD"]}
+   :6A	{:owner "sang ho li. eida"
+        :bank [#"EIDA REBECA ARIA"]}
+   :6B	{:owner "ser holdings corp (ex alvaro)"
+        :bank [#"SER" #"ALVARO SANTIDRIA"]}
+   :6C	{:owner "maria jesus"
+        :bank [#"MARIA DE JESUS"]}
+   :6D	{:owner "philppe antoine gelis"
+        :bank [#"PHILIPPE JEAN LO"]}
    ;:out	[#"No." #"GIRADOS"] ; payments with cheque
-   :xxx []
-   ))
+   :xxx []))
 
 (defn match-first [patterns name]
   (some #(re-find % name) patterns))
@@ -58,8 +90,8 @@
   "links a name to an apartment
    returns keywod"
   [name]
-  (some (fn [[apt patterns]]
-          (when-let [m (match-first patterns name)]
+  (some (fn [[apt {:keys [bank]}]]
+          (when-let [m (match-first bank name)]
             apt)) apartments))
 
 (comment
@@ -76,85 +108,83 @@
 
 
 (defn apartment-category [apt]
-  (let [[f l](name apt)
+  (let [[f l] (name apt)
         f (str f)
         l (str l)]
-    (cond 
-      (= f "L") 
-        {:cat :local
-         :cost 126.0}
+    (cond
+      (= f "L")
+      {:cat :local
+       :cost 126.0}
       (or (= l "A") (= l "B"))
-        {:cat :big
-         :cost 150.0}
+      {:cat :big
+       :cost 150.0}
       (or (= l "C") (= l "D"))
-        {:cat :small
-         :cost 105.0}
+      {:cat :small
+       :cost 105.0}
       :else
-        {:cat :xxx
-         :cost 0.0})))
-  
-  (comment
-       (apartment-category :L6)
-      (apartment-category :6A)
-      (apartment-category :6B)
-      (apartment-category :6C)
-      (apartment-category :6D)
-    (->  (apartment-category :6D)
-         :cat
-         name
-     )
-     
-    
-    
+      {:cat :xxx
+       :cost 0.0})))
+
+(comment
+  (apartment-category :L6)
+  (apartment-category :6A)
+  (apartment-category :6B)
+  (apartment-category :6C)
+  (apartment-category :6D)
+  (->  (apartment-category :6D)
+       :cat
+       name)
+
+
+
     ;
-    )
-  
-  (defn quota [year month apt]
-    (let [{:keys [cat cost]} (apartment-category apt)
-          date  (str "01/" month "/" year) ; 25/10/2019
-          from (str "mant " (name cat) " " year "-" month)
-          amount-f (- 0 cost)
-          ]
+  )
+
+(defn quota [year month apt]
+  (let [{:keys [cat cost]} (apartment-category apt)
+        date  (str "01/" month "/" year) ; 25/10/2019
+        from (str "mant " (name cat) " " year "-" month)
+        amount-f (- 0 cost)]
     {:io :i
      :amount (str amount-f)
      :amount-f amount-f
      :date date
-     :from from
-     }))
-  
-  
-  (defn quota-year [year m-start m-end apt]
-    (map   
-      #(quota year % apt)
-      (range m-start (inc m-end))))
-  
-  
-(defn apartment-quotas [apt]
-  (concat 
-     (quota-year 2019 06 12 apt)
-     (quota-year 2020 01 12 apt)
-     (quota-year 2021 01 12 apt)
-     (quota-year 2022 01 11 apt)))
-   
-  
-  (comment 
-       (quota 2022 11 :6B)
-       (quota 2022 11 :6C)
-       (quota 2022 11 :L3)
-     (-> (quota-year 2022 01 11 :L3)
-         count ) 
-     (-> (quota-year 2021 01 11 :L3)
-         count)
-    
-    (-> (apartment-quotas :L3)
-        count)
-    
-     
-    
-    
+     :from from}))
 
-    
-    
-    
+
+(defn quota-year [year m-start m-end apt]
+  (if (= :xxx apt) []
+    (map
+     #(quota year % apt)
+     (range m-start (inc m-end)))))
+
+
+(defn apartment-quotas [apt]
+  (concat
+   (quota-year 2019 06 12 apt)
+   (quota-year 2020 01 12 apt)
+   (quota-year 2021 01 12 apt)
+   (quota-year 2022 01 11 apt)))
+
+
+(comment
+  (quota 2022 11 :6B)
+  (quota 2022 11 :6C)
+  (quota 2022 11 :L3)
+  (-> (quota-year 2022 01 11 :L3)
+      count)
+  (-> (quota-year 2021 01 11 :L3)
+      count)
+
+  (-> (apartment-quotas :L3)
+      count)
+
+
+
+
+
+
+
+
     ;
-    )
+  )

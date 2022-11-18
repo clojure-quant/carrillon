@@ -44,19 +44,25 @@
              :quotas (round quotas)
              :balance (round (+ paid quotas))}}))
 
-(defn print-apartment [transactions apt]
-  (let [{:keys [payments balance stats] :as apt-data}  (calc-apartment transactions apt)
-        table-payments (transaction-table-str payments)
-        table-balance (transaction-table-str balance)]
-    (spit (str "in-txt/" (name apt) ".txt")
-          (str (name apt) "\r\n" table-payments))
-    (spit (str "balance-txt/" (name apt) ".txt")
-          (str (name apt) "\r\n" table-balance
+
+(defn balance-txt [folder show-name balance stats apt]
+  (let [table-balance (transaction-table-str balance)]
+    (spit (str folder (name apt) ".txt")
+          (str (name apt) " " (when show-name (-> apartments apt :owner))
+               "\r\n" table-balance
                "\r\n"
                "\r\n quotas: " (:quotas stats)
                "\r\n paid: " (:paid stats)
-               "\r\n balance: " (:balance stats)
-               ))
+               "\r\n balance: " (:balance stats)))))
+
+
+(defn print-apartment [transactions apt]
+  (let [{:keys [payments balance stats] :as apt-data}  (calc-apartment transactions apt)
+        table-payments (transaction-table-str payments)]
+    (spit (str "in-txt/" (name apt) ".txt")
+          (str (name apt) "\r\n" table-payments))
+    (balance-txt "balance-txt/" false balance stats apt)
+    (balance-txt "balance-txt-name/" true balance stats apt)
     apt-data))
 
 
@@ -188,7 +194,7 @@
               "84603971" :3C ; lizca (whatsapp con lizca)
               "186127688" :3C ; lizca (whatsapp con lizca)
               "172037873" :3C ; lizca (whatsapp con lizca)
-            
+
             ;
               nil)]
     (if apt

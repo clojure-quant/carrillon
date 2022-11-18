@@ -1,0 +1,90 @@
+6D philppe antoine gelis
+
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 24/06/2019 |  105.00 |              PHILIPPE JEAN LO junio 2019 |   54804431 |         0 |
+| 23/07/2019 |  105.00 | PHILIPPE JEAN LO Transferencia por Sucur |   95684476 |         0 |
+| 21/08/2019 |  105.00 |               PHILIPPE JEAN LO agaosto19 |  136853940 |         0 |
+| 24/09/2019 |  105.00 |         PHILIPPE JEAN LO septiembre 2019 |  187344235 |         0 |
+| 25/10/2019 |  105.00 |            PHILIPPE JEAN LO octubre 2019 |  231856311 |         0 |
+| 27/12/2019 |  105.00 |    PHILIPPE JEAN LO mantenimiento 122019 |  318801225 |         0 |
+| 24/01/2020 |  105.00 |    PHILIPPE JEAN LO mantenimiento 012020 |  357007169 |         0 |
+| 27/02/2020 |  105.00 |      PHILIPPE JEAN LO apt 6D Febrero2020 |  403250494 |         0 |
+| 30/03/2020 |  105.00 |      PHILIPPE JEAN LO carrillon 6D marzo |  445493612 |         0 |
+| 28/04/2020 |  105.00 | PHILIPPE JEAN LO Carrillon 6D Abril 2020 |  476075252 |         0 |
+| 27/05/2020 |  105.00 |         PHILIPPE JEAN LO Mayo2020 apt 6D |  508024815 |         0 |
+| 29/06/2020 |  105.00 |  PHILIPPE JEAN LO Junio2020 El Carrillon |  546653498 |         0 |
+| 23/07/2020 |  105.00 |  PHILIPPE JEAN LO Julio El Carrillon Apt |  577344714 |         0 |
+| 25/08/2020 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D agosto |  617088059 |         0 |
+| 28/09/2020 |  105.00 | PHILIPPE JEAN LO Septiembre El carrillon |  661271692 |         0 |
+| 25/11/2020 |  105.00 | PHILIPPE JEAN LO El carrillon 6D nov2020 |  723941731 |         0 |
+| 21/12/2020 |  105.00 |     PHILIPPE JEAN LO Carrillon 6D 122020 |  746371581 |         0 |
+| 24/02/2021 |  210.00 |                         PHILIPPE JEAN LO |  799121685 |         0 |
+| 25/03/2021 |  105.00 |                         PHILIPPE JEAN LO |  824738555 |         0 |
+| 26/04/2021 |  105.00 |                         PHILIPPE JEAN LO |  849769157 |         0 |
+| 27/05/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D mayo 20 |  877253541 |         0 |
+| 29/06/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Junio20 |  905455657 |         0 |
+| 02/08/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D julio 2 |  934544112 |         0 |
+| 27/08/2021 |  105.00 |                         PHILIPPE JEAN LO |  955646508 |         0 |
+| 07/09/2021 |  105.00 |             PHILIPPE JEAN LO Agosto 2021 |  965509925 |         0 |
+| 01/10/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D septie |  986184686 |         0 |
+| 25/10/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D octubre | 1006089061 |         0 |
+| 30/11/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D noviemb | 1034224661 |         0 |
+| 29/12/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D diciemb | 1059020947 |         0 |
+| 31/01/2022 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D  Enero | 1085293348 |         0 |
+| 02/03/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D Febrer | 1110581024 |         0 |
+| 24/03/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Marzo20 | 1130174325 |         0 |
+| 28/04/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D mes de | 1160308785 |         0 |
+| 02/06/2022 |  105.00 |         PHILIPPE JEAN LO El Carrillon 6D | 1190893680 |         0 |
+| 30/06/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Junio22 | 1215438810 |         0 |
+| 27/07/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Julio22 | 1238094511 |         0 |
+| 23/08/2022 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D Agosto | 1261870888 |         0 |
+| 29/09/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D septie | 1294772364 |         0 |
+| 25/10/2022 |  105.00 | PHILIPPE JEAN LO PH Carrillon 6 D Octubr | 1317264835 |         0 |
+|  01/6/2019 |  -105.0 |                        mant small 2019-6 |            |           |
+|  01/7/2019 |  -105.0 |                        mant small 2019-7 |            |           |
+|  01/8/2019 |  -105.0 |                        mant small 2019-8 |            |           |
+|  01/9/2019 |  -105.0 |                        mant small 2019-9 |            |           |
+| 01/10/2019 |  -105.0 |                       mant small 2019-10 |            |           |
+| 01/11/2019 |  -105.0 |                       mant small 2019-11 |            |           |
+| 01/12/2019 |  -105.0 |                       mant small 2019-12 |            |           |
+|  01/1/2020 |  -105.0 |                        mant small 2020-1 |            |           |
+|  01/2/2020 |  -105.0 |                        mant small 2020-2 |            |           |
+|  01/3/2020 |  -105.0 |                        mant small 2020-3 |            |           |
+|  01/4/2020 |  -105.0 |                        mant small 2020-4 |            |           |
+|  01/5/2020 |  -105.0 |                        mant small 2020-5 |            |           |
+|  01/6/2020 |  -105.0 |                        mant small 2020-6 |            |           |
+|  01/7/2020 |  -105.0 |                        mant small 2020-7 |            |           |
+|  01/8/2020 |  -105.0 |                        mant small 2020-8 |            |           |
+|  01/9/2020 |  -105.0 |                        mant small 2020-9 |            |           |
+| 01/10/2020 |  -105.0 |                       mant small 2020-10 |            |           |
+| 01/11/2020 |  -105.0 |                       mant small 2020-11 |            |           |
+| 01/12/2020 |  -105.0 |                       mant small 2020-12 |            |           |
+|  01/1/2021 |  -105.0 |                        mant small 2021-1 |            |           |
+|  01/2/2021 |  -105.0 |                        mant small 2021-2 |            |           |
+|  01/3/2021 |  -105.0 |                        mant small 2021-3 |            |           |
+|  01/4/2021 |  -105.0 |                        mant small 2021-4 |            |           |
+|  01/5/2021 |  -105.0 |                        mant small 2021-5 |            |           |
+|  01/6/2021 |  -105.0 |                        mant small 2021-6 |            |           |
+|  01/7/2021 |  -105.0 |                        mant small 2021-7 |            |           |
+|  01/8/2021 |  -105.0 |                        mant small 2021-8 |            |           |
+|  01/9/2021 |  -105.0 |                        mant small 2021-9 |            |           |
+| 01/10/2021 |  -105.0 |                       mant small 2021-10 |            |           |
+| 01/11/2021 |  -105.0 |                       mant small 2021-11 |            |           |
+| 01/12/2021 |  -105.0 |                       mant small 2021-12 |            |           |
+|  01/1/2022 |  -105.0 |                        mant small 2022-1 |            |           |
+|  01/2/2022 |  -105.0 |                        mant small 2022-2 |            |           |
+|  01/3/2022 |  -105.0 |                        mant small 2022-3 |            |           |
+|  01/4/2022 |  -105.0 |                        mant small 2022-4 |            |           |
+|  01/5/2022 |  -105.0 |                        mant small 2022-5 |            |           |
+|  01/6/2022 |  -105.0 |                        mant small 2022-6 |            |           |
+|  01/7/2022 |  -105.0 |                        mant small 2022-7 |            |           |
+|  01/8/2022 |  -105.0 |                        mant small 2022-8 |            |           |
+|  01/9/2022 |  -105.0 |                        mant small 2022-9 |            |           |
+| 01/10/2022 |  -105.0 |                       mant small 2022-10 |            |           |
+| 01/11/2022 |  -105.0 |                       mant small 2022-11 |            |           |
+
+
+ quotas: -4410
+ paid: 4200
+ balance: -210

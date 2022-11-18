@@ -1,0 +1,64 @@
+6A sang ho li. eida
+
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 15/10/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento del Apart |  998617421 |         0 |
+| 12/11/2021 |  315.00 | EIDA REBECA ARIA Mantenimiento Mes Nov 2 | 1020652123 |         0 |
+| 20/12/2021 |  315.00 | EIDA REBECA ARIA Dic 2021 Carrillon Apto | 1051625227 |         0 |
+| 18/01/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B | 1074705642 |         0 |
+| 18/02/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me | 1101713172 |         0 |
+| 24/03/2022 |  315.00 | EIDA REBECA ARIA Apt 6A Mantenimiento Me | 1130171018 |         0 |
+| 29/04/2022 |  315.00 | EIDA REBECA ARIA BANCA EN LINEA GLOBAL B | 1161453161 |         0 |
+| 25/05/2022 |  315.00 | EIDA REBECA ARIA Mantenimiento Mayo 2022 | 1183193009 |         0 |
+| 29/06/2022 |  315.00 |  EIDA REBECA ARIA Mantenimiento Apt 6A y | 1214236264 |         0 |
+| 27/07/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK | 1238088100 |         0 |
+| 23/08/2022 |  315.00 | EIDA REBECA ARIA BANCA MOVIL GLOBAL BANK | 1261866106 |         0 |
+| 28/09/2022 |  315.00 | EIDA REBECA ARIA Septiembre 2022 Manteni | 1294362679 |         0 |
+| 31/10/2022 |  315.00 | EIDA REBECA ARIA PH Carrillon Apto 6A Oc | 1322596829 |         0 |
+|  01/6/2019 |  -150.0 |                          mant big 2019-6 |            |           |
+|  01/7/2019 |  -150.0 |                          mant big 2019-7 |            |           |
+|  01/8/2019 |  -150.0 |                          mant big 2019-8 |            |           |
+|  01/9/2019 |  -150.0 |                          mant big 2019-9 |            |           |
+| 01/10/2019 |  -150.0 |                         mant big 2019-10 |            |           |
+| 01/11/2019 |  -150.0 |                         mant big 2019-11 |            |           |
+| 01/12/2019 |  -150.0 |                         mant big 2019-12 |            |           |
+|  01/1/2020 |  -150.0 |                          mant big 2020-1 |            |           |
+|  01/2/2020 |  -150.0 |                          mant big 2020-2 |            |           |
+|  01/3/2020 |  -150.0 |                          mant big 2020-3 |            |           |
+|  01/4/2020 |  -150.0 |                          mant big 2020-4 |            |           |
+|  01/5/2020 |  -150.0 |                          mant big 2020-5 |            |           |
+|  01/6/2020 |  -150.0 |                          mant big 2020-6 |            |           |
+|  01/7/2020 |  -150.0 |                          mant big 2020-7 |            |           |
+|  01/8/2020 |  -150.0 |                          mant big 2020-8 |            |           |
+|  01/9/2020 |  -150.0 |                          mant big 2020-9 |            |           |
+| 01/10/2020 |  -150.0 |                         mant big 2020-10 |            |           |
+| 01/11/2020 |  -150.0 |                         mant big 2020-11 |            |           |
+| 01/12/2020 |  -150.0 |                         mant big 2020-12 |            |           |
+|  01/1/2021 |  -150.0 |                          mant big 2021-1 |            |           |
+|  01/2/2021 |  -150.0 |                          mant big 2021-2 |            |           |
+|  01/3/2021 |  -150.0 |                          mant big 2021-3 |            |           |
+|  01/4/2021 |  -150.0 |                          mant big 2021-4 |            |           |
+|  01/5/2021 |  -150.0 |                          mant big 2021-5 |            |           |
+|  01/6/2021 |  -150.0 |                          mant big 2021-6 |            |           |
+|  01/7/2021 |  -150.0 |                          mant big 2021-7 |            |           |
+|  01/8/2021 |  -150.0 |                          mant big 2021-8 |            |           |
+|  01/9/2021 |  -150.0 |                          mant big 2021-9 |            |           |
+| 01/10/2021 |  -150.0 |                         mant big 2021-10 |            |           |
+| 01/11/2021 |  -150.0 |                         mant big 2021-11 |            |           |
+| 01/12/2021 |  -150.0 |                         mant big 2021-12 |            |           |
+|  01/1/2022 |  -150.0 |                          mant big 2022-1 |            |           |
+|  01/2/2022 |  -150.0 |                          mant big 2022-2 |            |           |
+|  01/3/2022 |  -150.0 |                          mant big 2022-3 |            |           |
+|  01/4/2022 |  -150.0 |                          mant big 2022-4 |            |           |
+|  01/5/2022 |  -150.0 |                          mant big 2022-5 |            |           |
+|  01/6/2022 |  -150.0 |                          mant big 2022-6 |            |           |
+|  01/7/2022 |  -150.0 |                          mant big 2022-7 |            |           |
+|  01/8/2022 |  -150.0 |                          mant big 2022-8 |            |           |
+|  01/9/2022 |  -150.0 |                          mant big 2022-9 |            |           |
+| 01/10/2022 |  -150.0 |                         mant big 2022-10 |            |           |
+| 01/11/2022 |  -150.0 |                         mant big 2022-11 |            |           |
+
+
+ quotas: -6300
+ paid: 4095
+ balance: -2205
