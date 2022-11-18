@@ -45,14 +45,19 @@
              :balance (round (+ paid quotas))}}))
 
 (defn print-apartment [transactions apt]
-  (let [{:keys [payments balance] :as stats}  (calc-apartment transactions apt)
+  (let [{:keys [payments balance stats] :as apt-data}  (calc-apartment transactions apt)
         table-payments (transaction-table-str payments)
         table-balance (transaction-table-str balance)]
     (spit (str "in-txt/" (name apt) ".txt")
-          table-payments)
+          (str (name apt) "\r\n" table-payments))
     (spit (str "balance-txt/" (name apt) ".txt")
-          table-balance)
-    stats))
+          (str (name apt) "\r\n" table-balance
+               "\r\n"
+               "\r\n quotas: " (:quotas stats)
+               "\r\n paid: " (:paid stats)
+               "\r\n balance: " (:balance stats)
+               ))
+    apt-data))
 
 
 (defn print-all-apartments [transactions]
