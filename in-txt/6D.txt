@@ -1,0 +1,42 @@
+
+|      :date | :amount |                                    :from | :sucursal |
+|------------+---------+------------------------------------------+-----------|
+| 24/06/2019 |  105.00 |              PHILIPPE JEAN LO junio 2019 |         0 |
+| 23/07/2019 |  105.00 | PHILIPPE JEAN LO Transferencia por Sucur |         0 |
+| 21/08/2019 |  105.00 |               PHILIPPE JEAN LO agaosto19 |         0 |
+| 24/09/2019 |  105.00 |         PHILIPPE JEAN LO septiembre 2019 |         0 |
+| 25/10/2019 |  105.00 |            PHILIPPE JEAN LO octubre 2019 |         0 |
+| 27/12/2019 |  105.00 |    PHILIPPE JEAN LO mantenimiento 122019 |         0 |
+| 24/01/2020 |  105.00 |    PHILIPPE JEAN LO mantenimiento 012020 |         0 |
+| 27/02/2020 |  105.00 |      PHILIPPE JEAN LO apt 6D Febrero2020 |         0 |
+| 30/03/2020 |  105.00 |      PHILIPPE JEAN LO carrillon 6D marzo |         0 |
+| 28/04/2020 |  105.00 | PHILIPPE JEAN LO Carrillon 6D Abril 2020 |         0 |
+| 27/05/2020 |  105.00 |         PHILIPPE JEAN LO Mayo2020 apt 6D |         0 |
+| 29/06/2020 |  105.00 |  PHILIPPE JEAN LO Junio2020 El Carrillon |         0 |
+| 23/07/2020 |  105.00 |  PHILIPPE JEAN LO Julio El Carrillon Apt |         0 |
+| 25/08/2020 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D agosto |         0 |
+| 28/09/2020 |  105.00 | PHILIPPE JEAN LO Septiembre El carrillon |         0 |
+| 25/11/2020 |  105.00 | PHILIPPE JEAN LO El carrillon 6D nov2020 |         0 |
+| 21/12/2020 |  105.00 |     PHILIPPE JEAN LO Carrillon 6D 122020 |         0 |
+| 24/02/2021 |  210.00 |                         PHILIPPE JEAN LO |         0 |
+| 25/03/2021 |  105.00 |                         PHILIPPE JEAN LO |         0 |
+| 26/04/2021 |  105.00 |                         PHILIPPE JEAN LO |         0 |
+| 27/05/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D mayo 20 |         0 |
+| 29/06/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Junio20 |         0 |
+| 02/08/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D julio 2 |         0 |
+| 27/08/2021 |  105.00 |                         PHILIPPE JEAN LO |         0 |
+| 07/09/2021 |  105.00 |             PHILIPPE JEAN LO Agosto 2021 |         0 |
+| 01/10/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D septie |         0 |
+| 25/10/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D octubre |         0 |
+| 30/11/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D noviemb |         0 |
+| 29/12/2021 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D diciemb |         0 |
+| 31/01/2022 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D  Enero |         0 |
+| 02/03/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D Febrer |         0 |
+| 24/03/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Marzo20 |         0 |
+| 28/04/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D mes de |         0 |
+| 02/06/2022 |  105.00 |         PHILIPPE JEAN LO El Carrillon 6D |         0 |
+| 30/06/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Junio22 |         0 |
+| 27/07/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon 6D Julio22 |         0 |
+| 23/08/2022 |  105.00 |  PHILIPPE JEAN LO El Carrillon 6D Agosto |         0 |
+| 29/09/2022 |  105.00 | PHILIPPE JEAN LO El Carrillon  6D septie |         0 |
+| 25/10/2022 |  105.00 | PHILIPPE JEAN LO PH Carrillon 6 D Octubr |         0 |

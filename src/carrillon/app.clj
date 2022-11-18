@@ -11,16 +11,20 @@
 ;  (fn [x] 
 ;   (= apt (:apt x)))
 
-(defn print-apartment [transactions apt]
+(defn str-apartment [transactions apt]
   (let [fields (if (= apt :xxx)
                  [:date :amount :from :sucursal :id]
                  [:date :amount :from :sucursal])]
-    (println "***** " apt " *******")
-    (->> transactions
+    (with-out-str
+      (->> transactions
          (filter (of-io :i))
          (filter #(= apt (:apt %)))
-         (print-table fields))))
+         (print-table fields)))))
 
+(defn print-apartment [transactions apt]
+  (->> (str-apartment transactions apt)
+      (spit (str "in-txt/" (name apt) ".txt"))))  
+  
 
 (defn print-all-apartments [transactions]
   (doall
@@ -100,7 +104,22 @@
               "97033971" :2C ; flor (llamada con margho, esposo pago antes del muerto)
               "89596510" :2C ; flor (llamada con margho, esposo pago antes del muerto)
               "81579441" :2C ; flor (llamada con margho, esposo pago antes del muerto)
-
+              
+              ; rosemary
+                "81579210" :4A ; rosemary (whatsapp con yvette)
+                "90135366" :4A ; rosemary (whatsapp con yvette)
+                "97769041" :4A ; rosemary (whatsapp con yvette)
+                "104452340" :4A ; rosemary (whatsapp con yvette)
+                "112721490" :4A ; rosemary (whatsapp con yvette)
+                "122267762" :4A ; rosemary (whatsapp con yvette)
+                "130793685" :4A ; rosemary (whatsapp con yvette)
+                "134645655" :4A ; rosemary (whatsapp con yvette)
+                "142317086" :4A ; rosemary (whatsapp con yvette)
+                "148684351" :4A ; rosemary (whatsapp con yvette)
+                "160187688" :4A ; rosemary (whatsapp con yvette)
+                "208504118" :4A ; rosemary (whatsapp con yvette)
+                "226428240" :4A ; rosemary (whatsapp con yvette)
+                "220849650" :4A ; rosemary (whatsapp con yvette)
             ;
               nil)]
     (if apt
@@ -116,6 +135,7 @@
        hack-l4
        hack-id
        hack-alvaro))
+
 
 
 (defn run [opts]

@@ -4,7 +4,8 @@
 
 
 (def apartments
-  (sorted-map :L1 [#"AMAN"] ;aman singh. 
+  (sorted-map 
+   :L1 [#"AMAN"] ;aman singh. 
    :L2 [#"AMAN"] ;	aman singh
    :L3 [#"CHAN"] ; ricardo how chan. rosana how chan.
    :L4	[#"CAROLINA MARIA" #"MIRIAM JOSEFINA" #"EXPERT TRAVEL"] ;	luis corrarubia

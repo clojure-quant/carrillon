@@ -1,0 +1,7 @@
+
+|      :date | :amount |                                    :from | :sucursal |
+|------------+---------+------------------------------------------+-----------|
+| 05/01/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |         0 |
+| 25/02/2022 |  330.00 |                                          |         5 |
+| 01/04/2022 |  330.00 | JOSE ALBERTO MOL TRANSFERENCIA A TERCERO |         0 |
+| 24/05/2022 |  330.00 |                     JOSE ALBERTO MOL 4b\ |         0 |

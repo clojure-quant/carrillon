@@ -1,0 +1,41 @@
+
+|      :date | :amount |                                    :from | :sucursal |
+|------------+---------+------------------------------------------+-----------|
+| 05/06/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA BANVIVIEN |         0 |
+| 05/07/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 07/08/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 06/09/2019 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 02/10/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 06/11/2019 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 05/12/2019 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 07/01/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA TRANSFERE |         0 |
+| 07/02/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 06/03/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 08/04/2020 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 08/05/2020 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 22/06/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 20/07/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 07/08/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 03/09/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 08/10/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 09/11/2020 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 10/12/2020 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 04/01/2021 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 02/02/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 03/03/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 31/03/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 05/05/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 01/06/2021 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 05/07/2021 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 04/08/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 02/09/2021 |  126.00 | EFIGENIA COGLEY Mantenimiento de septiem |         0 |
+| 04/10/2021 |  126.00 | EFIGENIA COGLEY Pago de Mantenimiento lo |         0 |
+| 02/11/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 09/12/2021 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 04/01/2022 |  126.00 | EFIGENIA COGLEY Pago de mantenimiento de |         0 |
+| 02/02/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 09/03/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 05/04/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 04/05/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |
+| 06/06/2022 |  126.00 | EFIGENIA COGLEY Pago de Junio de manteni |         0 |
+| 01/07/2022 |  126.00 | EFIGENIA COGLEY BANCA EN LINEA GLOBAL BA |         0 |

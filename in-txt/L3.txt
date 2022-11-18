@@ -1,0 +1,40 @@
+
+|      :date | :amount |                                    :from | :sucursal |
+|------------+---------+------------------------------------------+-----------|
+| 01/08/2019 |  126.00 | ROSANA HOW CHAN pago mantenimiento julio |         0 |
+| 02/09/2019 |  252.00 | ROSANA HOW CHAN pago de mantenimiento ag |         0 |
+| 31/10/2019 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA GLOBAL BA |         0 |
+| 11/12/2019 |  252.00 | ROSANA HOW CHAN pago mantenimiento novie |         0 |
+| 04/02/2020 |  126.00 | ROSANA HOW CHAN Mantenimiento enero 2020 |         0 |
+| 02/03/2020 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA TRANSFERE |         0 |
+| 30/03/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento marzo |         0 |
+| 05/05/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento abril |         0 |
+| 01/06/2020 |  126.00 |  ROSANA HOW CHAN pago mantenimiento mayo |         0 |
+| 02/07/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento junio |         0 |
+| 06/08/2020 |  126.00 | ROSANA HOW CHAN pago Mantenimiento julio |         0 |
+| 02/09/2020 |  126.00 | ROSANA HOW CHAN pago de mantenimiento ag |         0 |
+| 01/10/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |         0 |
+| 06/11/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Octub |         0 |
+| 01/12/2020 |  126.00 |  ROSANA HOW CHAN Mantenimiento Noviembre |         0 |
+| 04/01/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento dicie |         0 |
+| 01/02/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento enero |         0 |
+| 01/03/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |         0 |
+| 01/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Marzo |         0 |
+| 30/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |         0 |
+| 01/06/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |         0 |
+| 01/07/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Junio |         0 |
+| 02/08/2021 |  126.00 |      ROSANA HOW CHAN Pago mantenimiento\ |         0 |
+| 31/08/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |         0 |
+| 30/09/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |         0 |
+| 01/11/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento octub |         0 |
+| 01/12/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |         0 |
+| 03/01/2022 |  126.00 |  ROSANA HOW CHAN Mantenimiento diciembre |         0 |
+| 01/02/2022 |  126.00 |  ROSANA HOW CHAN BANCA MOVIL GLOBAL BANK |         0 |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento marzo 2022 |         0 |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |         0 |
+| 03/05/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |         0 |
+| 30/05/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Mayo 2022\ |         0 |
+| 30/06/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento junio 2022 |         0 |
+| 01/08/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Julio 2022 |         0 |
+| 31/08/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |         0 |
+| 30/09/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento septiembre |         0 |
