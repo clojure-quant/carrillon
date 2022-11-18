@@ -134,7 +134,7 @@
      (quota-year 2019 06 12 apt)
      (quota-year 2020 01 12 apt)
      (quota-year 2021 01 12 apt)
-     (quota-year 2022 01 12 apt)))
+     (quota-year 2022 01 11 apt)))
    
   
   (comment 
