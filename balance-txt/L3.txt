@@ -1,0 +1,83 @@
+
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 01/08/2019 |  126.00 | ROSANA HOW CHAN pago mantenimiento julio |  109334722 |         0 |
+| 02/09/2019 |  252.00 | ROSANA HOW CHAN pago de mantenimiento ag |  154508952 |         0 |
+| 31/10/2019 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA GLOBAL BA |  240777254 |         0 |
+| 11/12/2019 |  252.00 | ROSANA HOW CHAN pago mantenimiento novie |  295955988 |         0 |
+| 04/02/2020 |  126.00 | ROSANA HOW CHAN Mantenimiento enero 2020 |  372130464 |         0 |
+| 02/03/2020 |  126.00 | ROSANA HOW CHAN BANCA EN LINEA TRANSFERE |  409147851 |         0 |
+| 30/03/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento marzo |  445498873 |         0 |
+| 05/05/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento abril |  483761121 |         0 |
+| 01/06/2020 |  126.00 |  ROSANA HOW CHAN pago mantenimiento mayo |  513720811 |         0 |
+| 02/07/2020 |  126.00 | ROSANA HOW CHAN pago mantenimiento junio |  551715814 |         0 |
+| 06/08/2020 |  126.00 | ROSANA HOW CHAN pago Mantenimiento julio |  594067243 |         0 |
+| 02/09/2020 |  126.00 | ROSANA HOW CHAN pago de mantenimiento ag |  628112061 |         0 |
+| 01/10/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |  666664846 |         0 |
+| 06/11/2020 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Octub |  708598017 |         0 |
+| 01/12/2020 |  126.00 |  ROSANA HOW CHAN Mantenimiento Noviembre |  729185333 |         0 |
+| 04/01/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento dicie |  755066156 |         0 |
+| 01/02/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento enero |  779576875 |         0 |
+| 01/03/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre |  803144747 |         0 |
+| 01/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Marzo |  830515974 |         0 |
+| 30/04/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril |  854904743 |         0 |
+| 01/06/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS |  880905402 |         0 |
+| 01/07/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento Junio |  907242747 |         0 |
+| 02/08/2021 |  126.00 |      ROSANA HOW CHAN Pago mantenimiento\ |  933771131 |         0 |
+| 31/08/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost |  959511303 |         0 |
+| 30/09/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento septi |  985642373 |         0 |
+| 01/11/2021 |  126.00 | ROSANA HOW CHAN Pago mantenimiento octub | 1012708315 |         0 |
+| 01/12/2021 |  126.00 | ROSANA HOW CHAN TRANSFERENCIA A TERCEROS | 1035702455 |         0 |
+| 03/01/2022 |  126.00 |  ROSANA HOW CHAN Mantenimiento diciembre | 1062642275 |         0 |
+| 01/02/2022 |  126.00 |  ROSANA HOW CHAN BANCA MOVIL GLOBAL BANK | 1086761207 |         0 |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento marzo 2022 | 1137878371 |         0 |
+| 01/04/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento febre | 1138191449 |         0 |
+| 03/05/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento abril | 1163905689 |         0 |
+| 30/05/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Mayo 2022\ | 1188060529 |         0 |
+| 30/06/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento junio 2022 | 1215847808 |         0 |
+| 01/08/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento Julio 2022 | 1242724369 |         0 |
+| 31/08/2022 |  126.00 | ROSANA HOW CHAN Pago mantenimiento agost | 1269356616 |         0 |
+| 30/09/2022 |  126.00 | ROSANA HOW CHAN Mantenimiento septiembre | 1296343365 |         0 |
+|  01/6/2019 |  -126.0 |                        mant local 2019-6 |            |           |
+|  01/7/2019 |  -126.0 |                        mant local 2019-7 |            |           |
+|  01/8/2019 |  -126.0 |                        mant local 2019-8 |            |           |
+|  01/9/2019 |  -126.0 |                        mant local 2019-9 |            |           |
+| 01/10/2019 |  -126.0 |                       mant local 2019-10 |            |           |
+| 01/11/2019 |  -126.0 |                       mant local 2019-11 |            |           |
+| 01/12/2019 |  -126.0 |                       mant local 2019-12 |            |           |
+|  01/1/2020 |  -126.0 |                        mant local 2020-1 |            |           |
+|  01/2/2020 |  -126.0 |                        mant local 2020-2 |            |           |
+|  01/3/2020 |  -126.0 |                        mant local 2020-3 |            |           |
+|  01/4/2020 |  -126.0 |                        mant local 2020-4 |            |           |
+|  01/5/2020 |  -126.0 |                        mant local 2020-5 |            |           |
+|  01/6/2020 |  -126.0 |                        mant local 2020-6 |            |           |
+|  01/7/2020 |  -126.0 |                        mant local 2020-7 |            |           |
+|  01/8/2020 |  -126.0 |                        mant local 2020-8 |            |           |
+|  01/9/2020 |  -126.0 |                        mant local 2020-9 |            |           |
+| 01/10/2020 |  -126.0 |                       mant local 2020-10 |            |           |
+| 01/11/2020 |  -126.0 |                       mant local 2020-11 |            |           |
+| 01/12/2020 |  -126.0 |                       mant local 2020-12 |            |           |
+|  01/1/2021 |  -126.0 |                        mant local 2021-1 |            |           |
+|  01/2/2021 |  -126.0 |                        mant local 2021-2 |            |           |
+|  01/3/2021 |  -126.0 |                        mant local 2021-3 |            |           |
+|  01/4/2021 |  -126.0 |                        mant local 2021-4 |            |           |
+|  01/5/2021 |  -126.0 |                        mant local 2021-5 |            |           |
+|  01/6/2021 |  -126.0 |                        mant local 2021-6 |            |           |
+|  01/7/2021 |  -126.0 |                        mant local 2021-7 |            |           |
+|  01/8/2021 |  -126.0 |                        mant local 2021-8 |            |           |
+|  01/9/2021 |  -126.0 |                        mant local 2021-9 |            |           |
+| 01/10/2021 |  -126.0 |                       mant local 2021-10 |            |           |
+| 01/11/2021 |  -126.0 |                       mant local 2021-11 |            |           |
+| 01/12/2021 |  -126.0 |                       mant local 2021-12 |            |           |
+|  01/1/2022 |  -126.0 |                        mant local 2022-1 |            |           |
+|  01/2/2022 |  -126.0 |                        mant local 2022-2 |            |           |
+|  01/3/2022 |  -126.0 |                        mant local 2022-3 |            |           |
+|  01/4/2022 |  -126.0 |                        mant local 2022-4 |            |           |
+|  01/5/2022 |  -126.0 |                        mant local 2022-5 |            |           |
+|  01/6/2022 |  -126.0 |                        mant local 2022-6 |            |           |
+|  01/7/2022 |  -126.0 |                        mant local 2022-7 |            |           |
+|  01/8/2022 |  -126.0 |                        mant local 2022-8 |            |           |
+|  01/9/2022 |  -126.0 |                        mant local 2022-9 |            |           |
+| 01/10/2022 |  -126.0 |                       mant local 2022-10 |            |           |
+| 01/11/2022 |  -126.0 |                       mant local 2022-11 |            |           |
+| 01/12/2022 |  -126.0 |                       mant local 2022-12 |            |           |

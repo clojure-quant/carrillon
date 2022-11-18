@@ -1,0 +1,126 @@
+
+|      :date | :amount |                                    :from |        :id | :sucursal |
+|------------+---------+------------------------------------------+------------+-----------|
+| 04/06/2019 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |   26026439 |         0 |
+| 19/06/2019 |    0.01 |  ROBERTO PEREZ BO PH Carrillon Administ\ |   48018117 |         0 |
+| 03/09/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  155824675 |         0 |
+| 26/09/2019 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  190542840 |         0 |
+| 03/10/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  201420032 |         0 |
+| 06/11/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  247381651 |         0 |
+| 29/11/2019 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  279648922 |         0 |
+| 03/12/2019 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  284927983 |         0 |
+| 03/01/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  327965877 |         0 |
+| 03/01/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  327974051 |         0 |
+| 04/02/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  372136328 |         0 |
+| 05/02/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  374083655 |         0 |
+| 03/03/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  410721130 |         0 |
+| 09/03/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  419191518 |         0 |
+| 03/04/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  450242297 |         0 |
+| 16/04/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA GLOBAL B |  463496202 |         0 |
+| 04/05/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  482465654 |         0 |
+| 03/06/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  516075212 |         0 |
+| 11/06/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  525695981 |         0 |
+| 03/07/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  552714448 |         0 |
+| 06/07/2020 |  150.00 |                     ROBERTO PEREZ BO 5B\ |  555728068 |         0 |
+| 03/08/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  589976832 |         0 |
+| 03/09/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  629882877 |         0 |
+| 07/09/2020 |  150.00 |        ROBERTO PEREZ BO PH carrillon 5b\ |  634535122 |         0 |
+| 01/10/2020 |  150.00 |        ROBERTO PEREZ BO ph carrillon 5b\ |  666220478 |         0 |
+| 05/10/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  670589271 |         0 |
+| 29/10/2020 |  150.00 |      ROBERTO PEREZ BO Apto 5b Carrillon\ |  703186362 |         0 |
+| 02/11/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  706649201 |         0 |
+| 17/11/2020 |  150.00 |                     ROBERTO PEREZ BO 5B\ |  716399303 |         0 |
+| 30/11/2020 |  150.00 |           ROBERTO PEREZ BO carrillon 5b\ |  727377286 |         0 |
+| 03/12/2020 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  731251650 |         0 |
+| 15/12/2020 |  150.00 |           ROBERTO PEREZ BO 5b Carrillon\ |  741025237 |         0 |
+| 21/12/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  745535611 |         0 |
+| 31/12/2020 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  753683922 |         0 |
+| 04/01/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  755087973 |         0 |
+| 15/01/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA GLOBAL B |  764800572 |         0 |
+| 03/02/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  781457659 |         0 |
+| 08/02/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  785158545 |         0 |
+| 03/03/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  805330763 |         0 |
+| 11/03/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA GLOBAL B |  812412713 |         0 |
+| 01/04/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  830828029 |         0 |
+| 07/04/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA GLOBAL B |  834229674 |         0 |
+| 03/05/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  856061982 |         0 |
+| 10/05/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  861680922 |         0 |
+| 03/06/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  883455189 |         0 |
+| 08/06/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  886991675 |         0 |
+| 05/07/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  910202021 |         0 |
+| 12/07/2021 |  150.00 |                     ROBERTO PEREZ BO 5b\ |  916181505 |         0 |
+| 03/08/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  935240639 |         0 |
+| 10/08/2021 |  300.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  940633377 |         0 |
+| 03/09/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  962406629 |         0 |
+| 16/09/2021 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER |  972903566 |         0 |
+| 04/10/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ |  988441204 |         0 |
+| 02/11/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1014283166 |         0 |
+| 12/11/2021 |  150.00 |                     ROBERTO PEREZ BO 5B\ | 1019957002 |         0 |
+| 03/12/2021 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1038355346 |         0 |
+| 13/12/2021 |  450.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER | 1045153433 |         0 |
+| 03/01/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1062654244 |         0 |
+| 05/01/2022 |  150.00 | ROBERTO PEREZ BO BANCA EN LINEA TRANSFER | 1064557444 |         0 |
+| 13/01/2022 |   20.00 |      ROBERTO PEREZ BO Paz y Salvo IDAAD\ | 1070436622 |         0 |
+| 03/02/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1089042835 |         0 |
+| 03/02/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1089042837 |         0 |
+| 03/03/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1112200550 |         0 |
+| 03/03/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1112200552 |         0 |
+| 04/04/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1139815597 |         0 |
+| 04/04/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1139815599 |         0 |
+| 03/05/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1163944110 |         0 |
+| 03/05/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1163944113 |         0 |
+| 03/06/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1191928741 |         0 |
+| 03/06/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1191928743 |         0 |
+| 04/07/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1218744180 |         0 |
+| 04/07/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1218744182 |         0 |
+| 03/08/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1244656998 |         0 |
+| 03/08/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1244657001 |         0 |
+| 05/09/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1273530604 |         0 |
+| 05/09/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1273530607 |         0 |
+| 03/10/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1298198680 |         0 |
+| 03/10/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1298198682 |         0 |
+| 02/11/2022 |  105.00 |         MARGO MANUELLA C mensualidad 5C\ | 1325072396 |         0 |
+| 02/11/2022 |  150.00 |  MARGO MANUELLA C 5B  Fundacion Bokonon\ | 1325072399 |         0 |
+|  01/6/2019 |  -150.0 |                          mant big 2019-6 |            |           |
+|  01/7/2019 |  -150.0 |                          mant big 2019-7 |            |           |
+|  01/8/2019 |  -150.0 |                          mant big 2019-8 |            |           |
+|  01/9/2019 |  -150.0 |                          mant big 2019-9 |            |           |
+| 01/10/2019 |  -150.0 |                         mant big 2019-10 |            |           |
+| 01/11/2019 |  -150.0 |                         mant big 2019-11 |            |           |
+| 01/12/2019 |  -150.0 |                         mant big 2019-12 |            |           |
+|  01/1/2020 |  -150.0 |                          mant big 2020-1 |            |           |
+|  01/2/2020 |  -150.0 |                          mant big 2020-2 |            |           |
+|  01/3/2020 |  -150.0 |                          mant big 2020-3 |            |           |
+|  01/4/2020 |  -150.0 |                          mant big 2020-4 |            |           |
+|  01/5/2020 |  -150.0 |                          mant big 2020-5 |            |           |
+|  01/6/2020 |  -150.0 |                          mant big 2020-6 |            |           |
+|  01/7/2020 |  -150.0 |                          mant big 2020-7 |            |           |
+|  01/8/2020 |  -150.0 |                          mant big 2020-8 |            |           |
+|  01/9/2020 |  -150.0 |                          mant big 2020-9 |            |           |
+| 01/10/2020 |  -150.0 |                         mant big 2020-10 |            |           |
+| 01/11/2020 |  -150.0 |                         mant big 2020-11 |            |           |
+| 01/12/2020 |  -150.0 |                         mant big 2020-12 |            |           |
+|  01/1/2021 |  -150.0 |                          mant big 2021-1 |            |           |
+|  01/2/2021 |  -150.0 |                          mant big 2021-2 |            |           |
+|  01/3/2021 |  -150.0 |                          mant big 2021-3 |            |           |
+|  01/4/2021 |  -150.0 |                          mant big 2021-4 |            |           |
+|  01/5/2021 |  -150.0 |                          mant big 2021-5 |            |           |
+|  01/6/2021 |  -150.0 |                          mant big 2021-6 |            |           |
+|  01/7/2021 |  -150.0 |                          mant big 2021-7 |            |           |
+|  01/8/2021 |  -150.0 |                          mant big 2021-8 |            |           |
+|  01/9/2021 |  -150.0 |                          mant big 2021-9 |            |           |
+| 01/10/2021 |  -150.0 |                         mant big 2021-10 |            |           |
+| 01/11/2021 |  -150.0 |                         mant big 2021-11 |            |           |
+| 01/12/2021 |  -150.0 |                         mant big 2021-12 |            |           |
+|  01/1/2022 |  -150.0 |                          mant big 2022-1 |            |           |
+|  01/2/2022 |  -150.0 |                          mant big 2022-2 |            |           |
+|  01/3/2022 |  -150.0 |                          mant big 2022-3 |            |           |
+|  01/4/2022 |  -150.0 |                          mant big 2022-4 |            |           |
+|  01/5/2022 |  -150.0 |                          mant big 2022-5 |            |           |
+|  01/6/2022 |  -150.0 |                          mant big 2022-6 |            |           |
+|  01/7/2022 |  -150.0 |                          mant big 2022-7 |            |           |
+|  01/8/2022 |  -150.0 |                          mant big 2022-8 |            |           |
+|  01/9/2022 |  -150.0 |                          mant big 2022-9 |            |           |
+| 01/10/2022 |  -150.0 |                         mant big 2022-10 |            |           |
+| 01/11/2022 |  -150.0 |                         mant big 2022-11 |            |           |
+| 01/12/2022 |  -150.0 |                         mant big 2022-12 |            |           |

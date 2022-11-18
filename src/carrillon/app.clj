@@ -1,9 +1,10 @@
 (ns carrillon.app
   (:require
    [clojure.string :as str]
+  ; [clojure.math :refer [ceil floor round]]
      ;[clojure.pprint] 
    [clojure.pprint :refer [print-table]]
-   [carrillon.apto :refer [apartments]]
+   [carrillon.apto :refer [apartments  apartment-quotas]]
    [carrillon.pdf :refer [extract-transactions of-io]]))
 
 ; #(= apt (:apt %))
@@ -11,26 +12,64 @@
 ;  (fn [x] 
 ;   (= apt (:apt x)))
 
-(defn str-apartment [transactions apt]
-  (let [fields (if (= apt :xxx)
-                 [:date :amount :from :id :sucursal ]
-                 [:date :amount :from :id :sucursal])]
-    (with-out-str
-      (->> transactions
+(defn trans-of-apt [apt transactions]
+  (->> transactions
          (filter (of-io :i))
-         (filter #(= apt (:apt %)))
-         (print-table fields)))))
+         (filter #(= apt (:apt %)))))
 
+(defn table-str [fields cols]
+  (with-out-str
+    (print-table fields cols)))
+
+(defn transaction-table-str [transactions]
+  (with-out-str
+     (print-table 
+       [:date :amount :from :id :sucursal]
+        transactions)))
+
+(defn round [nr]
+   (-> nr Math/floor int))
+
+(defn calc-apartment [transactions apt]
+  (let [payments  (trans-of-apt apt transactions)
+        quotas (apartment-quotas apt)
+        balance (concat payments quotas)
+        paid (reduce + (map :amount-f payments))
+        quotas (reduce + (map :amount-f quotas))
+        ]
+   {:payments payments
+    :quotas quotas
+    :balance balance
+    :stats {:apt apt
+            :paid (round paid)
+            :quotas (round quotas)
+            :balance (round (+ paid quotas))}
+    }))
+    
 (defn print-apartment [transactions apt]
-  (->> (str-apartment transactions apt)
-      (spit (str "in-txt/" (name apt) ".txt"))))  
-  
+  (let [{:keys [payments balance] :as stats}  (calc-apartment transactions apt)
+        table-payments (transaction-table-str payments)
+        table-balance (transaction-table-str balance)
+        ]
+    (spit (str "in-txt/" (name apt) ".txt") 
+          table-payments)
+    (spit (str "balance-txt/" (name apt) ".txt")
+          table-balance)
+    stats))
+
 
 (defn print-all-apartments [transactions]
-  (doall
-   (map
-    #(print-apartment transactions (first %))
-    apartments)))
+  (let [stats (map
+               #(print-apartment transactions (first %))
+               apartments)
+        ;stats (map #(dissoc % :payments :quotas :balance) stats)
+        stats (map #(:stats % ) stats)
+        ]
+    (println "stats: " stats)
+    (->> stats 
+         (table-str [:apt :quotas :paid :balance])
+         (spit "summary.txt"))))
+
 
 (defn hack-6C [{:keys [apt amount] :as m}]
   ; 200.0 is maria jesus.
@@ -126,6 +165,12 @@
       (assoc m :apt apt)
       m)))
 
+(defn assoc-parsed-amount [{:keys [amount] :as m}]
+  (let [amount-f (if (or (nil? amount) (str/blank? amount))
+                   0
+                   (Float/parseFloat (str/replace amount #"," "")))]
+    (assoc m :amount-f amount-f)))
+
 (defn hacks [m]
   (->> m
        hack-6C
@@ -134,9 +179,24 @@
        hack-aizaga ; some could be eida or flor 
        hack-l4
        hack-id
-       hack-alvaro))
+       hack-alvaro
+       assoc-parsed-amount
+       ))
 
 
+
+(comment 
+(Float/parseFloat "150")
+(Float/parseFloat "150.00")
+(Float/parseFloat "150")
+(Float/parseFloat "2400.04")  
+  (assoc-parsed-amount {:amount "150.00"})
+  (assoc-parsed-amount {:amount "2,400.40"})
+  (assoc-parsed-amount {:amount ""})
+  (assoc-parsed-amount {:amount nil})
+    
+  ;
+  )
 
 (defn run [opts]
   (let [{:keys [transactions text]} (extract-transactions "2022.pdf")

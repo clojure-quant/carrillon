@@ -1,8 +1,4 @@
-undefined type:[ND POR CHQ DEVUELTO (CHQ LOCAL)]
-undefined type:[PAGO CK PROPIO DEPOSITADO CTA CTE Y AHORRO]
 
-undefined type:[ND POR CHQ DEVUELTO (CHQ LOCAL)]
-undefined type:[ND POR CHQ DEVUELTO (CHQ LOCAL)]
 |      :date |  :amount |                                    :from |        :id | :sucursal |
 |------------+----------+------------------------------------------+------------+-----------|
 | 13/04/2021 |   450.00 | ZULEIKA MIREYA G mantenimiento EL CARRIL |  839020690 |         0 |

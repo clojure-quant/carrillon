@@ -74,3 +74,87 @@
   (let [apt (or (find-apartment from) :xxx)]
     (assoc m :apt apt)))
 
+
+(defn apartment-category [apt]
+  (let [[f l](name apt)
+        f (str f)
+        l (str l)]
+    (cond 
+      (= f "L") 
+        {:cat :local
+         :cost 126.0}
+      (or (= l "A") (= l "B"))
+        {:cat :big
+         :cost 150.0}
+      (or (= l "C") (= l "D"))
+        {:cat :small
+         :cost 105.0}
+      :else
+        {:cat :xxx
+         :cost 0.0})))
+  
+  (comment
+       (apartment-category :L6)
+      (apartment-category :6A)
+      (apartment-category :6B)
+      (apartment-category :6C)
+      (apartment-category :6D)
+    (->  (apartment-category :6D)
+         :cat
+         name
+     )
+     
+    
+    
+    ;
+    )
+  
+  (defn quota [year month apt]
+    (let [{:keys [cat cost]} (apartment-category apt)
+          date  (str "01/" month "/" year) ; 25/10/2019
+          from (str "mant " (name cat) " " year "-" month)
+          amount-f (- 0 cost)
+          ]
+    {:io :i
+     :amount (str amount-f)
+     :amount-f amount-f
+     :date date
+     :from from
+     }))
+  
+  
+  (defn quota-year [year m-start m-end apt]
+    (map   
+      #(quota year % apt)
+      (range m-start (inc m-end))))
+  
+  
+(defn apartment-quotas [apt]
+  (concat 
+     (quota-year 2019 06 12 apt)
+     (quota-year 2020 01 12 apt)
+     (quota-year 2021 01 12 apt)
+     (quota-year 2022 01 12 apt)))
+   
+  
+  (comment 
+       (quota 2022 11 :6B)
+       (quota 2022 11 :6C)
+       (quota 2022 11 :L3)
+     (-> (quota-year 2022 01 11 :L3)
+         count ) 
+     (-> (quota-year 2021 01 11 :L3)
+         count)
+    
+    (-> (apartment-quotas :L3)
+        count)
+    
+     
+    
+    
+
+    
+    
+    
+    ;
+    )
