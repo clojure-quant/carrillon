@@ -40,6 +40,7 @@
      :quotas quotas
      :balance balance
      :stats {:apt apt
+             :owner (-> apartments apt :owner)
              :paid (round paid)
              :quotas (round quotas)
              :balance (round (+ paid quotas))}}))
@@ -75,7 +76,12 @@
     (println "stats: " stats)
     (->> stats
          (table-str [:apt :quotas :paid :balance])
-         (spit "summary.txt"))))
+         (spit "summary.txt"))
+    (->> stats
+         (table-str [:apt :owner :quotas :paid :balance])
+         (spit "summary-name.txt"))
+    
+    ))
 
 
 (defn hack-6C [{:keys [apt amount] :as m}]

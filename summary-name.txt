@@ -1,0 +1,37 @@
+
+| :apt |                                               :owner | :quotas | :paid | :balance |
+|------+------------------------------------------------------+---------+-------+----------|
+|  :1A |                  zumarco sa. grimaldo. mama lureica. |   -6300 |  6600 |      300 |
+|  :1B |                                        nivia vernaza |   -6300 |     0 |    -6300 |
+|  :1C |                                          luis aizaga |   -4410 |  4557 |      147 |
+|  :1D |            banco general (alexander montilla ortega) |   -4410 |  7770 |     3360 |
+|  :2A | Prof. Guillermo Alegría Zúñiga minlsterio educacion. |   -6300 |   100 |    -6200 |
+|  :2B |                   immobiliaria emca (adonai abogado) |   -6300 |     0 |    -6300 |
+|  :2C |                               flor chavez contadora. |   -4410 |  2100 |    -2310 |
+|  :2D |                        luis anguizola inmobilia came |   -4410 |  3360 |    -1050 |
+|  :3A |                        odette poschl. sonja poschl.  |   -6300 |   475 |    -5825 |
+|  :3B |                                           aman singh |   -6300 |  3600 |    -2700 |
+|  :3C |                          lisca linette luna barranco |   -4410 |  4515 |      105 |
+|  :3D |                                    estellina mendoza |   -4410 |    70 |    -4340 |
+|  :4A |                                   Rosemary Dickinson |   -6300 |  6450 |      150 |
+|  :4B |                        evelia gonzales. jose alberto |   -6300 |  1320 |    -4980 |
+|  :4C |               corp admin electronica erick y daniela |   -4410 |  2300 |    -2110 |
+|  :4D |                 angel j fernandez bitchito fundacion |   -4410 |     0 |    -4410 |
+|  :5A |                                  jose luis rodriguez |   -6300 |     0 |    -6300 |
+|  :5B |                        margho callaghan (ex roberto) |   -6300 | 10415 |     4115 |
+|  :5C |                                     margho callaghan |   -4410 |     0 |    -4410 |
+|  :5D |                                      fundacion sarud |   -4410 |   462 |    -3948 |
+|  :6A |                                     sang ho li. eida |   -6300 |  4095 |    -2205 |
+|  :6B |                        ser holdings corp (ex alvaro) |   -6300 | 15878 |     9578 |
+|  :6C |                                          maria jesus |   -4410 |  2400 |    -2010 |
+|  :6D |                                philppe antoine gelis |   -4410 |  4200 |     -210 |
+|  :L1 |                                           aman singh |   -5292 |  9072 |     3780 |
+|  :L2 |                                           aman singh |   -5292 |     0 |    -5292 |
+|  :L3 |                    ricardo how chan. rosana how chan |   -5292 |  4914 |     -378 |
+|  :L4 |                                      luis corrarubia |   -5292 |  5036 |     -256 |
+|  :L5 |                           leureliz holding (lisbeth) |   -5292 |  4788 |     -504 |
+|  :L6 |                                          isabel cano |   -5292 |     0 |    -5292 |
+|  :L7 |                                    xispava sa agenor |   -5292 |     0 |    -5292 |
+|  :L8 |                                    xispava sa agenor |   -5292 |     0 |    -5292 |
+|  :L9 |                                    xispava sa agenor |   -5292 |     0 |    -5292 |
+| :xxx |                                                      |       0 | 19986 |    19986 |
