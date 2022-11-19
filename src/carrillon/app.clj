@@ -41,6 +41,7 @@
      :balance balance
      :stats {:apt apt
              :owner (-> apartments apt :owner)
+             :status (-> apartments apt :status)
              :paid (round paid)
              :quotas (round quotas)
              :balance (round (+ paid quotas))}}))
@@ -75,13 +76,13 @@
         stats (map #(:stats %) stats)]
     (println "stats: " stats)
     (->> stats
-         (table-str [:apt :quotas :paid :balance])
+         (sort-by :status)
+         (table-str [:apt :status :quotas :paid :balance])
          (spit "summary.txt"))
     (->> stats
-         (table-str [:apt :owner :quotas :paid :balance])
-         (spit "summary-name.txt"))
-    
-    ))
+          (sort-by :status)
+         (table-str [:apt :status :owner :quotas :paid :balance])
+         (spit "summary-name.txt"))))
 
 
 (defn hack-6C [{:keys [apt amount] :as m}]
@@ -200,6 +201,37 @@
               "84603971" :3C ; lizca (whatsapp con lizca)
               "186127688" :3C ; lizca (whatsapp con lizca)
               "172037873" :3C ; lizca (whatsapp con lizca)
+
+              ; jose luis rodriguez
+              "92241837" :5A ; jose luis rodriguez (conversation en asamblea)
+              "92241948" :5A ; jose luis rodriguez (conversation en asamblea)
+              "95649693" :5A ; jose luis rodriguez (conversation en asamblea)
+              "209580287" :5A ; jose luis rodriguez (conversation en asamblea)
+              "181321477" :5A ; jose luis rodriguez (conversation en asamblea)
+              "264283235" :5A ; jose luis rodriguez (conversation en asamblea)
+              "253238276" :5A ; jose luis rodriguez (conversation en asamblea)
+              "122586286" :5A ; jose luis rodriguez (conversation en asamblea)
+              "123473982" :5A ; jose luis rodriguez (conversation en asamblea)
+              "127324753" :5A ; jose luis rodriguez (conversation en asamblea)
+              "134845309" :5A ; jose luis rodriguez (conversation en asamblea)
+              "115646343" :5A ; jose luis rodriguez (conversation en asamblea)
+              "228414286" :5A ; jose luis rodriguez (conversation en asamblea)
+              "142010518" :5A ; jose luis rodriguez (conversation en asamblea)
+              "148074349" :5A ; jose luis rodriguez (conversation en asamblea)
+              "121216030" :5A ; jose luis rodriguez (conversation en asamblea)
+              "103579188" :5A ; jose luis rodriguez (conversation en asamblea)
+              "112267932" :5A ; jose luis rodriguez (conversation en asamblea)
+              "148961601" :5A ; jose luis rodriguez (conversation en asamblea)
+              "148255085" :5A ; jose luis rodriguez (conversation en asamblea)
+              "132170836" :5A ; jose luis rodriguez (conversation en asamblea)
+              "233468801" :5A ; jose luis rodriguez (conversation en asamblea)
+              "155759085" :5A ; jose luis rodriguez (conversation en asamblea)
+              "160340446" :5A ; jose luis rodriguez (conversation en asamblea)
+              "171373231" :5A ; jose luis rodriguez (conversation en asamblea)
+              "175341736" :5A ; jose luis rodriguez (conversation en asamblea)
+              "155537325" :5A ; jose luis rodriguez (conversation en asamblea)
+              "181240796" :5A ; jose luis rodriguez (conversation en asamblea)
+
 
             ;
               nil)]

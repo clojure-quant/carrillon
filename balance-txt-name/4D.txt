@@ -1,4 +1,4 @@
-4D angel j fernandez bitchito fundacion
+4D angel j fernandez bitchito
 
 |      :date | :amount |              :from | :id | :sucursal |
 |------------+---------+--------------------+-----+-----------|

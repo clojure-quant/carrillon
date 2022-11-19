@@ -1,4 +1,4 @@
-4C corp admin electronica erick y daniela
+4C corp admin elec (erick/daniela)
 
 |      :date | :amount |                                    :from |        :id | :sucursal |
 |------------+---------+------------------------------------------+------------+-----------|

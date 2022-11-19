@@ -1,4 +1,4 @@
-1D banco general (alexander montilla ortega)
+1D Aman Sing (ex: montilla+bgeneral)
 
 |      :date |  :amount |              :from |       :id | :sucursal |
 |------------+----------+--------------------+-----------+-----------|

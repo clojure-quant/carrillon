@@ -1,4 +1,4 @@
-1A zumarco sa. grimaldo. mama lureica.
+1A zumarco sa. (grimaldo/lureica)
 
 |      :date |  :amount |                                    :from |        :id | :sucursal |
 |------------+----------+------------------------------------------+------------+-----------|

@@ -1,4 +1,4 @@
-3A odette poschl. sonja poschl. 
+3A odette poschl. sonja poschl.
 
 |      :date | :amount |                 :from |       :id | :sucursal |
 |------------+---------+-----------------------+-----------+-----------|

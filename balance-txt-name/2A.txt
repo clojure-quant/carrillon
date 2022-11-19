@@ -1,4 +1,4 @@
-2A Prof. Guillermo Alegría Zúñiga minlsterio educacion.
+2A Prof. Guillermo Alegría Zúñiga
 
 |      :date | :amount |            :from |       :id | :sucursal |
 |------------+---------+------------------+-----------+-----------|
