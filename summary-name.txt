@@ -1,37 +1,37 @@
 
-| :apt |       :status |                             :owner | :quotas | :paid | :balance |
-|------+---------------+------------------------------------+---------+-------+----------|
-| :xxx |               |                                    |       0 | 13820 |    13820 |
-|  :1B |       :moroso |                      nivia vernaza |   -6300 |     0 |    -6300 |
-|  :2A |       :moroso |     Prof. Guillermo Alegría Zúñiga |   -6300 |   100 |    -6200 |
-|  :2B |       :moroso | immobiliaria emca (adonai abogado) |   -6300 |     0 |    -6300 |
-|  :2C |       :moroso |             flor chavez contadora. |   -4410 |  2100 |    -2310 |
-|  :3A |       :moroso |       odette poschl. sonja poschl. |   -6300 |   475 |    -5825 |
-|  :3D |       :moroso |                  estellina mendoza |   -4410 |    70 |    -4340 |
-|  :4B |       :moroso |      evelia gonzales. jose alberto |   -6300 |  1320 |    -4980 |
-|  :4D |       :moroso |         angel j fernandez bitchito |   -4410 |     0 |    -4410 |
-|  :5D |       :moroso |                    fundacion sarud |   -4410 |   462 |    -3948 |
-|  :L6 |       :moroso |                        isabel cano |   -5292 |     0 |    -5292 |
-|  :L7 |       :moroso |                  xispava sa agenor |   -5292 |     0 |    -5292 |
-|  :L8 |       :moroso |                  xispava sa agenor |   -5292 |     0 |    -5292 |
-|  :L9 |       :moroso |                  xispava sa agenor |   -5292 |     0 |    -5292 |
-|  :1A |    :paz-salvo |     zumarco sa. (grimaldo/lureica) |   -6300 |  6600 |      300 |
-|  :1C |    :paz-salvo |                        luis aizaga |   -4410 |  4557 |      147 |
-|  :1D |    :paz-salvo |  Aman Sing (ex: montilla+bgeneral) |   -4410 |  7770 |     3360 |
-|  :2D |    :paz-salvo |      luis anguizola inmobilia came |   -4410 |  3360 |    -1050 |
-|  :3B |    :paz-salvo |                         aman singh |   -6300 |  3600 |    -2700 |
-|  :3C |    :paz-salvo |        lisca linette luna barranco |   -4410 |  4515 |      105 |
-|  :4A |    :paz-salvo |                 Rosemary Dickinson |   -6300 |  6450 |      150 |
-|  :5A |    :paz-salvo |                jose luis rodriguez |   -6300 |  6166 |     -134 |
-|  :5B |    :paz-salvo |      margho callaghan (ex roberto) |   -6300 | 10415 |     4115 |
-|  :5C |    :paz-salvo |                   margho callaghan |   -4410 |     0 |    -4410 |
-|  :6B |    :paz-salvo |      ser holdings corp (ex alvaro) |   -6300 | 15878 |     9578 |
-|  :6D |    :paz-salvo |              philppe antoine gelis |   -4410 |  4200 |     -210 |
-|  :L1 |    :paz-salvo |                         aman singh |   -5292 |  9072 |     3780 |
-|  :L2 |    :paz-salvo |                         aman singh |   -5292 |     0 |    -5292 |
-|  :L3 |    :paz-salvo |  ricardo how chan. rosana how chan |   -5292 |  4914 |     -378 |
-|  :L4 |    :paz-salvo |                    luis corrarubia |   -5292 |  5036 |     -256 |
-|  :L5 |    :paz-salvo |         leureliz holding (lisbeth) |   -5292 |  4788 |     -504 |
-|  :4C | :plan-de-pago |    corp admin elec (erick/daniela) |   -4410 |  2300 |    -2110 |
-|  :6A | :plan-de-pago |                   sang ho li. eida |   -6300 |  4095 |    -2205 |
-|  :6C | :plan-de-pago |                        maria jesus |   -4410 |  2400 |    -2010 |
+| :apt |       :status |                          :owner | :quotas | :paid | :balance |
+|------+---------------+---------------------------------+---------+-------+----------|
+| :xxx |               |                                 |       0 | 13820 |    13820 |
+|  :1B |       :moroso |                   nivia vernaza |   -6300 |     0 |    -6300 |
+|  :2A |       :moroso |           Prof.  Alegría Zúñiga |   -6300 |   100 |    -6200 |
+|  :2B |       :moroso |      immobiliaria emca (adonai) |   -6300 |     0 |    -6300 |
+|  :2C |       :moroso |          flor chavez contadora. |   -4410 |  2100 |    -2310 |
+|  :3A |       :moroso |    odette poschl. sonja poschl. |   -6300 |   475 |    -5825 |
+|  :3D |       :moroso |               estellina mendoza |   -4410 |    70 |    -4340 |
+|  :4B |       :moroso |   evelia gonzales. jose alberto |   -6300 |  1320 |    -4980 |
+|  :4D |       :moroso |      angel j fernandez bitchito |   -4410 |     0 |    -4410 |
+|  :5D |       :moroso |                 fundacion sarud |   -4410 |   462 |    -3948 |
+|  :L6 |       :moroso |                     isabel cano |   -5292 |     0 |    -5292 |
+|  :L7 |       :moroso |               xispava sa agenor |   -5292 |     0 |    -5292 |
+|  :L8 |       :moroso |               xispava sa agenor |   -5292 |     0 |    -5292 |
+|  :L9 |       :moroso |               xispava sa agenor |   -5292 |     0 |    -5292 |
+|  :1A |    :paz-salvo |  zumarco sa. (grimaldo/lureica) |   -6300 |  6600 |      300 |
+|  :1C |    :paz-salvo |                     luis aizaga |   -4410 |  4557 |      147 |
+|  :1D |    :paz-salvo |        Aman Sing (ex: montilla) |   -4410 |  7770 |     3360 |
+|  :2D |    :paz-salvo |   luis anguizola inmobilia came |   -4410 |  3360 |    -1050 |
+|  :3B |    :paz-salvo |                      aman singh |   -6300 |  3600 |    -2700 |
+|  :3C |    :paz-salvo |     lisca linette luna barranco |   -4410 |  4515 |      105 |
+|  :4A |    :paz-salvo |              Rosemary Dickinson |   -6300 |  6450 |      150 |
+|  :5A |    :paz-salvo |             jose luis rodriguez |   -6300 |  6166 |     -134 |
+|  :5B |    :paz-salvo |   margho callaghan (ex roberto) |   -6300 | 10415 |     4115 |
+|  :5C |    :paz-salvo |                margho callaghan |   -4410 |     0 |    -4410 |
+|  :6B |    :paz-salvo |   ser holdings corp (ex alvaro) |   -6300 | 15878 |     9578 |
+|  :6D |    :paz-salvo |           philppe antoine gelis |   -4410 |  4200 |     -210 |
+|  :L1 |    :paz-salvo |                      aman singh |   -5292 |  9072 |     3780 |
+|  :L2 |    :paz-salvo |                      aman singh |   -5292 |     0 |    -5292 |
+|  :L3 |    :paz-salvo |         how chan ricardo/rosana |   -5292 |  4914 |     -378 |
+|  :L4 |    :paz-salvo |                 luis corrarubia |   -5292 |  5036 |     -256 |
+|  :L5 |    :paz-salvo |      leureliz holding (lisbeth) |   -5292 |  4788 |     -504 |
+|  :4C | :plan-de-pago | corp admin elec (erick/daniela) |   -4410 |  2300 |    -2110 |
+|  :6A | :plan-de-pago |                sang ho li. eida |   -6300 |  4095 |    -2205 |
+|  :6C | :plan-de-pago |                     maria jesus |   -4410 |  2400 |    -2010 |

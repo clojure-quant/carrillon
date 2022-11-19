@@ -11,7 +11,7 @@
    :L2 {:owner "aman singh"
         :bank [#"AMAN"]
         :status :paz-salvo}
-   :L3 {:owner "ricardo how chan. rosana how chan"
+   :L3 {:owner "how chan ricardo/rosana"
         :bank [#"CHAN"]
         :status :paz-salvo}
    :L4 {:owner "luis corrarubia"
@@ -41,13 +41,13 @@
    :1C	{:owner "luis aizaga"
         :bank [#"AIZAGA"]
         :status :paz-salvo}
-   :1D	{:owner "Aman Sing (ex: montilla+bgeneral)"
+   :1D	{:owner "Aman Sing (ex: montilla)"
         :bank [#"BGENERAL"]
         :status :paz-salvo}
-   :2A	{:owner "Prof. Guillermo Alegría Zúñiga"
+   :2A	{:owner "Prof.  Alegría Zúñiga"
         :bank []
         :status :moroso}
-   :2B	{:owner "immobiliaria emca (adonai abogado)"
+   :2B	{:owner "immobiliaria emca (adonai)"
         :bank [#"EMCA"]
         :status :moroso}
    :2C	{:owner "flor chavez contadora."

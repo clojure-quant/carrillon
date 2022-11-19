@@ -1,4 +1,4 @@
-L3 ricardo how chan. rosana how chan
+L3 how chan ricardo/rosana
 
 |      :date | :amount |                                    :from |        :id | :sucursal |
 |------------+---------+------------------------------------------+------------+-----------|

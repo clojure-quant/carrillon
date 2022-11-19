@@ -1,4 +1,4 @@
-2B immobiliaria emca (adonai abogado)
+2B immobiliaria emca (adonai)
 
 |      :date | :amount |            :from | :id | :sucursal |
 |------------+---------+------------------+-----+-----------|

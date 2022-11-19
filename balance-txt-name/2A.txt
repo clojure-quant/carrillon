@@ -1,4 +1,4 @@
-2A Prof. Guillermo Alegría Zúñiga
+2A Prof.  Alegría Zúñiga
 
 |      :date | :amount |            :from |       :id | :sucursal |
 |------------+---------+------------------+-----------+-----------|

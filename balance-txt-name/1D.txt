@@ -1,4 +1,4 @@
-1D Aman Sing (ex: montilla+bgeneral)
+1D Aman Sing (ex: montilla)
 
 |      :date |  :amount |              :from |       :id | :sucursal |
 |------------+----------+--------------------+-----------+-----------|
